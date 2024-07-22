@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/engnaman7752/leetcode1/tree/master/0084-largest-rectangle-in-histogram) |
+| [0268-missing-number](https://github.com/engnaman7752/leetcode1/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/engnaman7752/leetcode1/tree/master/0283-move-zeroes) |
 | [1072-next-greater-node-in-linked-list](https://github.com/engnaman7752/leetcode1/tree/master/1072-next-greater-node-in-linked-list) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/engnaman7752/leetcode1/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -47,4 +48,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/engnaman7752/leetcode1/tree/master/0283-move-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/engnaman7752/leetcode1/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/engnaman7752/leetcode1/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/engnaman7752/leetcode1/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/engnaman7752/leetcode1/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/engnaman7752/leetcode1/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
