@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/engnaman7752/leetcode1/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/engnaman7752/leetcode1/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/engnaman7752/leetcode1/tree/master/0155-min-stack) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/engnaman7752/leetcode1/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1072-next-greater-node-in-linked-list](https://github.com/engnaman7752/leetcode1/tree/master/1072-next-greater-node-in-linked-list) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/engnaman7752/leetcode1/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/engnaman7752/leetcode1/tree/master/0085-maximal-rectangle) |
 | [0136-single-number](https://github.com/engnaman7752/leetcode1/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/engnaman7752/leetcode1/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/engnaman7752/leetcode1/tree/master/0283-move-zeroes) |
@@ -41,11 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/engnaman7752/leetcode1/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/engnaman7752/leetcode1/tree/master/0085-maximal-rectangle) |
 | [1072-next-greater-node-in-linked-list](https://github.com/engnaman7752/leetcode1/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/engnaman7752/leetcode1/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/engnaman7752/leetcode1/tree/master/0085-maximal-rectangle) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/engnaman7752/leetcode1/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Linked List
 |  |
@@ -89,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/engnaman7752/leetcode1/tree/master/2163-kth-distinct-string-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/engnaman7752/leetcode1/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
