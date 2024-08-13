@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/engnaman7752/leetcode1/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/engnaman7752/leetcode1/tree/master/0085-maximal-rectangle) |
 | [0136-single-number](https://github.com/engnaman7752/leetcode1/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/engnaman7752/leetcode1/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/engnaman7752/leetcode1/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/engnaman7752/leetcode1/tree/master/0283-move-zeroes) |
 | [1039-find-the-town-judge](https://github.com/engnaman7752/leetcode1/tree/master/1039-find-the-town-judge) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/engnaman7752/leetcode1/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/engnaman7752/leetcode1/tree/master/0283-move-zeroes) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/engnaman7752/leetcode1/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Hash Table
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/engnaman7752/leetcode1/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/engnaman7752/leetcode1/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
