@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/engnaman7752/leetcode1/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/engnaman7752/leetcode1/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/engnaman7752/leetcode1/tree/master/0085-maximal-rectangle) |
 | [0136-single-number](https://github.com/engnaman7752/leetcode1/tree/master/0136-single-number) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/engnaman7752/leetcode1/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/engnaman7752/leetcode1/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/engnaman7752/leetcode1/tree/master/0268-missing-number) |
 ## Binary Search
