@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/engnaman7752/leetcode1/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/engnaman7752/leetcode1/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/engnaman7752/leetcode1/tree/master/0496-next-greater-element-i) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/engnaman7752/leetcode1/tree/master/1039-find-the-town-judge) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/engnaman7752/leetcode1/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Math
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/engnaman7752/leetcode1/tree/master/0268-missing-number) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/engnaman7752/leetcode1/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Graph
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/engnaman7752/leetcode1/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/engnaman7752/leetcode1/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/engnaman7752/leetcode1/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -206,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/engnaman7752/leetcode1/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/engnaman7752/leetcode1/tree/master/0112-path-sum) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
