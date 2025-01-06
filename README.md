@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/engnaman7752/leetcode1/tree/master/1039-find-the-town-judge) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/engnaman7752/leetcode1/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/engnaman7752/leetcode1/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Math
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/engnaman7752/leetcode1/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/engnaman7752/leetcode1/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Depth-First Search
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/engnaman7752/leetcode1/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/engnaman7752/leetcode1/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/engnaman7752/leetcode1/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Breadth-First Search
@@ -267,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/engnaman7752/leetcode1/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/engnaman7752/leetcode1/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Backtracking
