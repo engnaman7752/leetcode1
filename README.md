@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/engnaman7752/leetcode1/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/engnaman7752/leetcode1/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/engnaman7752/leetcode1/tree/master/2727-number-of-senior-citizens) |
+| [3447-clear-digits](https://github.com/engnaman7752/leetcode1/tree/master/3447-clear-digits) |
 ## Stack
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/engnaman7752/leetcode1/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1552-build-an-array-with-stack-operations](https://github.com/engnaman7752/leetcode1/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/engnaman7752/leetcode1/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [3447-clear-digits](https://github.com/engnaman7752/leetcode1/tree/master/3447-clear-digits) |
 ## Design
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/engnaman7752/leetcode1/tree/master/0735-asteroid-collision) |
 | [1552-build-an-array-with-stack-operations](https://github.com/engnaman7752/leetcode1/tree/master/1552-build-an-array-with-stack-operations) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/engnaman7752/leetcode1/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3447-clear-digits](https://github.com/engnaman7752/leetcode1/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/engnaman7752/leetcode1/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Data Stream
 |  |
