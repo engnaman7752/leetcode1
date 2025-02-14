@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/engnaman7752/leetcode1/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/engnaman7752/leetcode1/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0937-online-stock-span](https://github.com/engnaman7752/leetcode1/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/engnaman7752/leetcode1/tree/master/1477-product-of-the-last-k-numbers) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/engnaman7752/leetcode1/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/engnaman7752/leetcode1/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/engnaman7752/leetcode1/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/engnaman7752/leetcode1/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/engnaman7752/leetcode1/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Hash Table
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/engnaman7752/leetcode1/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/engnaman7752/leetcode1/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/engnaman7752/leetcode1/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/engnaman7752/leetcode1/tree/master/0347-top-k-frequent-elements) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/engnaman7752/leetcode1/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/engnaman7752/leetcode1/tree/master/0295-find-median-from-data-stream) |
 | [0937-online-stock-span](https://github.com/engnaman7752/leetcode1/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/engnaman7752/leetcode1/tree/master/1477-product-of-the-last-k-numbers) |
 ## Queue
@@ -346,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/engnaman7752/leetcode1/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/engnaman7752/leetcode1/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/engnaman7752/leetcode1/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/engnaman7752/leetcode1/tree/master/0347-top-k-frequent-elements) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/engnaman7752/leetcode1/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/engnaman7752/leetcode1/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
