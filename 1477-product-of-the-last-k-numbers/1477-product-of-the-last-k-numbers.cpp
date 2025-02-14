@@ -1,21 +1,23 @@
 class ProductOfNumbers {
 public:
-vector<long long>ans;
+vector<long long>ans{1};
     ProductOfNumbers() {
         
     }
     
     void add(int num) {
-        for(int i=0;i<ans.size();i++)
-        {
-           ans[i]= long (num*ans[i]);
-        }
-        ans.push_back(num);
+       if(num==0)
+       {ans.clear();
+       ans.push_back(1);}
+       else
+       ans.push_back(num*ans[ans.size()-1]);
         
     }
     
     int getProduct(int k) {
-        return ans[ans.size()-k];
+       if(ans.size()<=k) return 0;
+       else
+       return ans[ans.size()-1]/ans[ans.size() - k - 1];
         
     }
 };
