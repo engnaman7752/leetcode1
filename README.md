@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/engnaman7752/leetcode1/tree/master/0268-missing-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/engnaman7752/leetcode1/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/engnaman7752/leetcode1/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/engnaman7752/leetcode1/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/engnaman7752/leetcode1/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
 |  |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/engnaman7752/leetcode1/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/engnaman7752/leetcode1/tree/master/0257-binary-tree-paths) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/engnaman7752/leetcode1/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
