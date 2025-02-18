@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/engnaman7752/leetcode1/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/engnaman7752/leetcode1/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/engnaman7752/leetcode1/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/engnaman7752/leetcode1/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2727-number-of-senior-citizens](https://github.com/engnaman7752/leetcode1/tree/master/2727-number-of-senior-citizens) |
 | [3447-clear-digits](https://github.com/engnaman7752/leetcode1/tree/master/3447-clear-digits) |
 ## Stack
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/engnaman7752/leetcode1/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1552-build-an-array-with-stack-operations](https://github.com/engnaman7752/leetcode1/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/engnaman7752/leetcode1/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/engnaman7752/leetcode1/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/engnaman7752/leetcode1/tree/master/3447-clear-digits) |
 ## Design
 |  |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/engnaman7752/leetcode1/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/engnaman7752/leetcode1/tree/master/0257-binary-tree-paths) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/engnaman7752/leetcode1/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/engnaman7752/leetcode1/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Heap (Priority Queue)
 |  |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/engnaman7752/leetcode1/tree/master/1285-balance-a-binary-search-tree) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/engnaman7752/leetcode1/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Quickselect
 |  |
 | ------- |
