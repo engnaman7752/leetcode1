@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/engnaman7752/leetcode1/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0136-single-number](https://github.com/engnaman7752/leetcode1/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/engnaman7752/leetcode1/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/engnaman7752/leetcode1/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/engnaman7752/leetcode1/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/engnaman7752/leetcode1/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/engnaman7752/leetcode1/tree/master/0283-move-zeroes) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/engnaman7752/leetcode1/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/engnaman7752/leetcode1/tree/master/0200-number-of-islands) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/engnaman7752/leetcode1/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Linked List
 |  |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/engnaman7752/leetcode1/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/engnaman7752/leetcode1/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/engnaman7752/leetcode1/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/engnaman7752/leetcode1/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/engnaman7752/leetcode1/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/engnaman7752/leetcode1/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/engnaman7752/leetcode1/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/engnaman7752/leetcode1/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/engnaman7752/leetcode1/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/engnaman7752/leetcode1/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/engnaman7752/leetcode1/tree/master/0404-sum-of-left-leaves) |
@@ -439,5 +443,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/engnaman7752/leetcode1/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/engnaman7752/leetcode1/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
