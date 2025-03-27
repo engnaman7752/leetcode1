@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/engnaman7752/leetcode1/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/engnaman7752/leetcode1/tree/master/2551-apply-operations-to-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/engnaman7752/leetcode1/tree/master/2727-number-of-senior-citizens) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/engnaman7752/leetcode1/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/engnaman7752/leetcode1/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/engnaman7752/leetcode1/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/engnaman7752/leetcode1/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/engnaman7752/leetcode1/tree/master/2448-count-number-of-bad-pairs) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/engnaman7752/leetcode1/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/engnaman7752/leetcode1/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/engnaman7752/leetcode1/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Math
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/engnaman7752/leetcode1/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/engnaman7752/leetcode1/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/engnaman7752/leetcode1/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Graph
 |  |
 | ------- |
