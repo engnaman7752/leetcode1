@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/engnaman7752/leetcode1/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/engnaman7752/leetcode1/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/engnaman7752/leetcode1/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/engnaman7752/leetcode1/tree/master/0820-find-eventual-safe-states) |
 | [1039-find-the-town-judge](https://github.com/engnaman7752/leetcode1/tree/master/1039-find-the-town-judge) |
 ## Counting
 |  |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/engnaman7752/leetcode1/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/engnaman7752/leetcode1/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/engnaman7752/leetcode1/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/engnaman7752/leetcode1/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/engnaman7752/leetcode1/tree/master/1073-number-of-enclaves) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/engnaman7752/leetcode1/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/engnaman7752/leetcode1/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/engnaman7752/leetcode1/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/engnaman7752/leetcode1/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/engnaman7752/leetcode1/tree/master/1036-rotting-oranges) |
@@ -496,4 +499,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/engnaman7752/leetcode1/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/engnaman7752/leetcode1/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/engnaman7752/leetcode1/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
