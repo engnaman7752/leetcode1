@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/engnaman7752/leetcode1/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/engnaman7752/leetcode1/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/engnaman7752/leetcode1/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/engnaman7752/leetcode1/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/engnaman7752/leetcode1/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/engnaman7752/leetcode1/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/engnaman7752/leetcode1/tree/master/3732-calculate-score-after-performing-instructions) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1663-detect-cycles-in-2d-grid](https://github.com/engnaman7752/leetcode1/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1753-path-with-minimum-effort](https://github.com/engnaman7752/leetcode1/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/engnaman7752/leetcode1/tree/master/1876-map-of-highest-peak) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/engnaman7752/leetcode1/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Linked List
 |  |
 | ------- |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/engnaman7752/leetcode1/tree/master/0820-find-eventual-safe-states) |
 | [1039-find-the-town-judge](https://github.com/engnaman7752/leetcode1/tree/master/1039-find-the-town-judge) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/engnaman7752/leetcode1/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/engnaman7752/leetcode1/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Counting
 |  |
 | ------- |
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/engnaman7752/leetcode1/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/engnaman7752/leetcode1/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/engnaman7752/leetcode1/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/engnaman7752/leetcode1/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -606,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/engnaman7752/leetcode1/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/engnaman7752/leetcode1/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Monotonic Queue
 |  |
 | ------- |
