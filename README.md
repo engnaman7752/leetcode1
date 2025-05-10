@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/engnaman7752/leetcode1/tree/master/2915-count-of-interesting-subarrays) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/engnaman7752/leetcode1/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/engnaman7752/leetcode1/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/engnaman7752/leetcode1/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/engnaman7752/leetcode1/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/engnaman7752/leetcode1/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/engnaman7752/leetcode1/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/engnaman7752/leetcode1/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1285-balance-a-binary-search-tree](https://github.com/engnaman7752/leetcode1/tree/master/1285-balance-a-binary-search-tree) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/engnaman7752/leetcode1/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/engnaman7752/leetcode1/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/engnaman7752/leetcode1/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3738-make-array-non-decreasing](https://github.com/engnaman7752/leetcode1/tree/master/3738-make-array-non-decreasing) |
 ## Quickselect
