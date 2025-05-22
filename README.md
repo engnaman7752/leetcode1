@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/engnaman7752/leetcode1/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/engnaman7752/leetcode1/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/engnaman7752/leetcode1/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/engnaman7752/leetcode1/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/engnaman7752/leetcode1/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/engnaman7752/leetcode1/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/engnaman7752/leetcode1/tree/master/3732-calculate-score-after-performing-instructions) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/engnaman7752/leetcode1/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/engnaman7752/leetcode1/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3321-type-of-triangle](https://github.com/engnaman7752/leetcode1/tree/master/3321-type-of-triangle) |
+| [3647-zero-array-transformation-iii](https://github.com/engnaman7752/leetcode1/tree/master/3647-zero-array-transformation-iii) |
 ## Graph
 |  |
 | ------- |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/engnaman7752/leetcode1/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/engnaman7752/leetcode1/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/engnaman7752/leetcode1/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/engnaman7752/leetcode1/tree/master/3647-zero-array-transformation-iii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -572,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/engnaman7752/leetcode1/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/engnaman7752/leetcode1/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/engnaman7752/leetcode1/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
+| [3647-zero-array-transformation-iii](https://github.com/engnaman7752/leetcode1/tree/master/3647-zero-array-transformation-iii) |
 | [3738-make-array-non-decreasing](https://github.com/engnaman7752/leetcode1/tree/master/3738-make-array-non-decreasing) |
 ## Quickselect
 |  |
@@ -597,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/engnaman7752/leetcode1/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/engnaman7752/leetcode1/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/engnaman7752/leetcode1/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/engnaman7752/leetcode1/tree/master/3647-zero-array-transformation-iii) |
 ## Sliding Window
 |  |
 | ------- |
