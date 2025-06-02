@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/engnaman7752/leetcode1/tree/master/2383-add-two-integers) |
 | [2448-count-number-of-bad-pairs](https://github.com/engnaman7752/leetcode1/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/engnaman7752/leetcode1/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3201-distribute-candies-among-children-ii](https://github.com/engnaman7752/leetcode1/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/engnaman7752/leetcode1/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/engnaman7752/leetcode1/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/engnaman7752/leetcode1/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -661,11 +662,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/engnaman7752/leetcode1/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3201-distribute-candies-among-children-ii](https://github.com/engnaman7752/leetcode1/tree/master/3201-distribute-candies-among-children-ii) |
 ## Enumeration
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/engnaman7752/leetcode1/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/engnaman7752/leetcode1/tree/master/2215-finding-3-digit-even-numbers) |
+| [3201-distribute-candies-among-children-ii](https://github.com/engnaman7752/leetcode1/tree/master/3201-distribute-candies-among-children-ii) |
 ## Recursion
 |  |
 | ------- |
