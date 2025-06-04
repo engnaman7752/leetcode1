@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/engnaman7752/leetcode1/tree/master/3194-find-words-containing-character) |
 | [3447-clear-digits](https://github.com/engnaman7752/leetcode1/tree/master/3447-clear-digits) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/engnaman7752/leetcode1/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/engnaman7752/leetcode1/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/engnaman7752/leetcode1/tree/master/3732-calculate-score-after-performing-instructions) |
 ## Stack
 |  |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/engnaman7752/leetcode1/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2551-apply-operations-to-an-array](https://github.com/engnaman7752/leetcode1/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/engnaman7752/leetcode1/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/engnaman7752/leetcode1/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/engnaman7752/leetcode1/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/engnaman7752/leetcode1/tree/master/2215-finding-3-digit-even-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/engnaman7752/leetcode1/tree/master/3201-distribute-candies-among-children-ii) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/engnaman7752/leetcode1/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Recursion
 |  |
 | ------- |
