@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/engnaman7752/leetcode1/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2551-apply-operations-to-an-array](https://github.com/engnaman7752/leetcode1/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/engnaman7752/leetcode1/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/engnaman7752/leetcode1/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/engnaman7752/leetcode1/tree/master/2727-number-of-senior-citizens) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/engnaman7752/leetcode1/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/engnaman7752/leetcode1/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/engnaman7752/leetcode1/tree/master/1753-path-with-minimum-effort) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/engnaman7752/leetcode1/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/engnaman7752/leetcode1/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/engnaman7752/leetcode1/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/engnaman7752/leetcode1/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/engnaman7752/leetcode1/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/engnaman7752/leetcode1/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/engnaman7752/leetcode1/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/engnaman7752/leetcode1/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/engnaman7752/leetcode1/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/engnaman7752/leetcode1/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
