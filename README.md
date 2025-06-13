@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/engnaman7752/leetcode1/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/engnaman7752/leetcode1/tree/master/0038-count-and-say) |
 | [0127-word-ladder](https://github.com/engnaman7752/leetcode1/tree/master/0127-word-ladder) |
 | [0257-binary-tree-paths](https://github.com/engnaman7752/leetcode1/tree/master/0257-binary-tree-paths) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/engnaman7752/leetcode1/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/engnaman7752/leetcode1/tree/master/0085-maximal-rectangle) |
 | [0542-01-matrix](https://github.com/engnaman7752/leetcode1/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/engnaman7752/leetcode1/tree/master/0747-min-cost-climbing-stairs) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/engnaman7752/leetcode1/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/engnaman7752/leetcode1/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/engnaman7752/leetcode1/tree/master/0257-binary-tree-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/engnaman7752/leetcode1/tree/master/1993-sum-of-all-subset-xor-totals) |
