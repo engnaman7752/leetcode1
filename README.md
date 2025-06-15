@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/engnaman7752/leetcode1/tree/master/0027-remove-element) |
 | [0040-combination-sum-ii](https://github.com/engnaman7752/leetcode1/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/engnaman7752/leetcode1/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/engnaman7752/leetcode1/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/engnaman7752/leetcode1/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/engnaman7752/leetcode1/tree/master/0075-sort-colors) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/engnaman7752/leetcode1/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/engnaman7752/leetcode1/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/engnaman7752/leetcode1/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/engnaman7752/leetcode1/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/engnaman7752/leetcode1/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/engnaman7752/leetcode1/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/engnaman7752/leetcode1/tree/master/0216-combination-sum-iii) |
