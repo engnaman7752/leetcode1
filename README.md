@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/engnaman7752/leetcode1/tree/master/0027-remove-element) |
+| [0037-sudoku-solver](https://github.com/engnaman7752/leetcode1/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/engnaman7752/leetcode1/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/engnaman7752/leetcode1/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/engnaman7752/leetcode1/tree/master/0066-plus-one) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/engnaman7752/leetcode1/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/engnaman7752/leetcode1/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/engnaman7752/leetcode1/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/engnaman7752/leetcode1/tree/master/0130-surrounded-regions) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/engnaman7752/leetcode1/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/engnaman7752/leetcode1/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/engnaman7752/leetcode1/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/engnaman7752/leetcode1/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/engnaman7752/leetcode1/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -590,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/engnaman7752/leetcode1/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/engnaman7752/leetcode1/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/engnaman7752/leetcode1/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/engnaman7752/leetcode1/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/engnaman7752/leetcode1/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/engnaman7752/leetcode1/tree/master/0052-n-queens-ii) |
