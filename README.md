@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/engnaman7752/leetcode1/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/engnaman7752/leetcode1/tree/master/0038-count-and-say) |
 | [0127-word-ladder](https://github.com/engnaman7752/leetcode1/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/engnaman7752/leetcode1/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/engnaman7752/leetcode1/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/engnaman7752/leetcode1/tree/master/0387-first-unique-character-in-a-string) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/engnaman7752/leetcode1/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/engnaman7752/leetcode1/tree/master/0085-maximal-rectangle) |
+| [0131-palindrome-partitioning](https://github.com/engnaman7752/leetcode1/tree/master/0131-palindrome-partitioning) |
 | [0542-01-matrix](https://github.com/engnaman7752/leetcode1/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/engnaman7752/leetcode1/tree/master/0747-min-cost-climbing-stairs) |
 | [0868-push-dominoes](https://github.com/engnaman7752/leetcode1/tree/master/0868-push-dominoes) |
@@ -602,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/engnaman7752/leetcode1/tree/master/0052-n-queens-ii) |
 | [0090-subsets-ii](https://github.com/engnaman7752/leetcode1/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/engnaman7752/leetcode1/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/engnaman7752/leetcode1/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/engnaman7752/leetcode1/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/engnaman7752/leetcode1/tree/master/0257-binary-tree-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/engnaman7752/leetcode1/tree/master/1993-sum-of-all-subset-xor-totals) |
