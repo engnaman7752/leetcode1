@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/engnaman7752/leetcode1/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/engnaman7752/leetcode1/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/engnaman7752/leetcode1/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/engnaman7752/leetcode1/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/engnaman7752/leetcode1/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/engnaman7752/leetcode1/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/engnaman7752/leetcode1/tree/master/0075-sort-colors) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/engnaman7752/leetcode1/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/engnaman7752/leetcode1/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/engnaman7752/leetcode1/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/engnaman7752/leetcode1/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/engnaman7752/leetcode1/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/engnaman7752/leetcode1/tree/master/0130-surrounded-regions) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/engnaman7752/leetcode1/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/engnaman7752/leetcode1/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/engnaman7752/leetcode1/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/engnaman7752/leetcode1/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/engnaman7752/leetcode1/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/engnaman7752/leetcode1/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/engnaman7752/leetcode1/tree/master/0131-palindrome-partitioning) |
