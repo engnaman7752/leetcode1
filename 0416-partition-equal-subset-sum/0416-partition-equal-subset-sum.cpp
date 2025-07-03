@@ -7,17 +7,22 @@ public:
         {
             totalSum=totalSum+nums[i];
         }
-        vector<vector<int>>dp(n,vector<int>(totalSum+1,-1));
-        return solve(0,0,totalSum,nums,dp);
+        if(totalSum%2!=0)return false;
+        int target=totalSum/2;
+        vector<vector<int>>dp(n,vector<int>(target+1,-1));
+        return solve(0,target,nums,dp);
     }
-    bool solve(int index,int sum,int totalSum,vector<int>& nums,vector<vector<int>>& dp){
+    bool solve(int index,int target,vector<int>& nums,vector<vector<int>>& dp){
         int n=nums.size();
-        if(sum==(totalSum-sum)) return true;
-        if(index>=n)return false;
-        if(dp[index][sum]!=-1)return dp[index][sum];
-        bool take=solve(index+1,sum+nums[index],totalSum,nums,dp);
-        bool notTake=solve(index+1,sum,totalSum,nums,dp);
-        return dp[index][sum]=take||notTake;
+        if(index==n)return false;
+        if(target==0) return true;
+        if(dp[index][target]!=-1)return dp[index][target];
+        bool take = false;
+        if(nums[index] <= target) {
+            take = solve(index + 1, target - nums[index], nums, dp);
+        }
+        bool notTake=solve(index+1,target,nums,dp);
+        return dp[index][target]=take||notTake;
 
     }
 };
