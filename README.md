@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/engnaman7752/leetcode1/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/engnaman7752/leetcode1/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/engnaman7752/leetcode1/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/engnaman7752/leetcode1/tree/master/2479-meeting-rooms-iii) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/engnaman7752/leetcode1/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2551-apply-operations-to-an-array](https://github.com/engnaman7752/leetcode1/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/engnaman7752/leetcode1/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/engnaman7752/leetcode1/tree/master/2448-count-number-of-bad-pairs) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/engnaman7752/leetcode1/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/engnaman7752/leetcode1/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/engnaman7752/leetcode1/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/engnaman7752/leetcode1/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/engnaman7752/leetcode1/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/engnaman7752/leetcode1/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2331-intersection-of-multiple-arrays](https://github.com/engnaman7752/leetcode1/tree/master/2331-intersection-of-multiple-arrays) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/engnaman7752/leetcode1/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/engnaman7752/leetcode1/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/engnaman7752/leetcode1/tree/master/2479-meeting-rooms-iii) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/engnaman7752/leetcode1/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/engnaman7752/leetcode1/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/engnaman7752/leetcode1/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/engnaman7752/leetcode1/tree/master/1552-build-an-array-with-stack-operations) |
 | [2048-build-array-from-permutation](https://github.com/engnaman7752/leetcode1/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/engnaman7752/leetcode1/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2479-meeting-rooms-iii](https://github.com/engnaman7752/leetcode1/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/engnaman7752/leetcode1/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/engnaman7752/leetcode1/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/engnaman7752/leetcode1/tree/master/3447-clear-digits) |
@@ -718,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/engnaman7752/leetcode1/tree/master/1753-path-with-minimum-effort) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/engnaman7752/leetcode1/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/engnaman7752/leetcode1/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/engnaman7752/leetcode1/tree/master/2479-meeting-rooms-iii) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/engnaman7752/leetcode1/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/engnaman7752/leetcode1/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/engnaman7752/leetcode1/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
