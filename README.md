@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/engnaman7752/leetcode1/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/engnaman7752/leetcode1/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/engnaman7752/leetcode1/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/engnaman7752/leetcode1/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/engnaman7752/leetcode1/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/engnaman7752/leetcode1/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/engnaman7752/leetcode1/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/engnaman7752/leetcode1/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1552-build-an-array-with-stack-operations](https://github.com/engnaman7752/leetcode1/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/engnaman7752/leetcode1/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/engnaman7752/leetcode1/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/engnaman7752/leetcode1/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/engnaman7752/leetcode1/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/engnaman7752/leetcode1/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -785,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/engnaman7752/leetcode1/tree/master/1285-balance-a-binary-search-tree) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/engnaman7752/leetcode1/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/engnaman7752/leetcode1/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/engnaman7752/leetcode1/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/engnaman7752/leetcode1/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/engnaman7752/leetcode1/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/engnaman7752/leetcode1/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
