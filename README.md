@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/engnaman7752/leetcode1/tree/master/0868-push-dominoes) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/engnaman7752/leetcode1/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/engnaman7752/leetcode1/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1250-longest-common-subsequence](https://github.com/engnaman7752/leetcode1/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/engnaman7752/leetcode1/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/engnaman7752/leetcode1/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/engnaman7752/leetcode1/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/engnaman7752/leetcode1/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/engnaman7752/leetcode1/tree/master/1063-best-sightseeing-pair) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/engnaman7752/leetcode1/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1250-longest-common-subsequence](https://github.com/engnaman7752/leetcode1/tree/master/1250-longest-common-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/engnaman7752/leetcode1/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1559-cherry-pickup-ii](https://github.com/engnaman7752/leetcode1/tree/master/1559-cherry-pickup-ii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/engnaman7752/leetcode1/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
