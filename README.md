@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/engnaman7752/leetcode1/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/engnaman7752/leetcode1/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/engnaman7752/leetcode1/tree/master/0038-count-and-say) |
+| [0115-distinct-subsequences](https://github.com/engnaman7752/leetcode1/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/engnaman7752/leetcode1/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/engnaman7752/leetcode1/tree/master/0131-palindrome-partitioning) |
 | [0168-excel-sheet-column-title](https://github.com/engnaman7752/leetcode1/tree/master/0168-excel-sheet-column-title) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/engnaman7752/leetcode1/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/engnaman7752/leetcode1/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/engnaman7752/leetcode1/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/engnaman7752/leetcode1/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/engnaman7752/leetcode1/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/engnaman7752/leetcode1/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/engnaman7752/leetcode1/tree/master/0198-house-robber) |
