@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/engnaman7752/leetcode1/tree/master/0868-push-dominoes) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/engnaman7752/leetcode1/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/engnaman7752/leetcode1/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1170-shortest-common-supersequence](https://github.com/engnaman7752/leetcode1/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/engnaman7752/leetcode1/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/engnaman7752/leetcode1/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/engnaman7752/leetcode1/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/engnaman7752/leetcode1/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/engnaman7752/leetcode1/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/engnaman7752/leetcode1/tree/master/1063-best-sightseeing-pair) |
+| [1170-shortest-common-supersequence](https://github.com/engnaman7752/leetcode1/tree/master/1170-shortest-common-supersequence) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/engnaman7752/leetcode1/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1250-longest-common-subsequence](https://github.com/engnaman7752/leetcode1/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/engnaman7752/leetcode1/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
