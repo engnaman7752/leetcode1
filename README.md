@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/engnaman7752/leetcode1/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/engnaman7752/leetcode1/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/engnaman7752/leetcode1/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/engnaman7752/leetcode1/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/engnaman7752/leetcode1/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/engnaman7752/leetcode1/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/engnaman7752/leetcode1/tree/master/0127-word-ladder) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/engnaman7752/leetcode1/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/engnaman7752/leetcode1/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/engnaman7752/leetcode1/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/engnaman7752/leetcode1/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/engnaman7752/leetcode1/tree/master/0064-minimum-path-sum) |
@@ -794,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/engnaman7752/leetcode1/tree/master/0044-wildcard-matching) |
 | [0135-candy](https://github.com/engnaman7752/leetcode1/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/engnaman7752/leetcode1/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/engnaman7752/leetcode1/tree/master/0768-partition-labels) |
@@ -895,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/engnaman7752/leetcode1/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/engnaman7752/leetcode1/tree/master/0060-permutation-sequence) |
 | [2050-count-good-numbers](https://github.com/engnaman7752/leetcode1/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/engnaman7752/leetcode1/tree/master/3600-find-the-k-th-character-in-string-game-i) |
