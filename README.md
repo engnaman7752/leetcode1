@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/engnaman7752/leetcode1/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/engnaman7752/leetcode1/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/engnaman7752/leetcode1/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/engnaman7752/leetcode1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/engnaman7752/leetcode1/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/engnaman7752/leetcode1/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/engnaman7752/leetcode1/tree/master/0136-single-number) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/engnaman7752/leetcode1/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/engnaman7752/leetcode1/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/engnaman7752/leetcode1/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/engnaman7752/leetcode1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/engnaman7752/leetcode1/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/engnaman7752/leetcode1/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/engnaman7752/leetcode1/tree/master/0213-house-robber-ii) |
