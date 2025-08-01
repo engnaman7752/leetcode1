@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/engnaman7752/leetcode1/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/engnaman7752/leetcode1/tree/master/0747-min-cost-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/engnaman7752/leetcode1/tree/master/0797-rabbits-in-forest) |
+| [0875-longest-mountain-in-array](https://github.com/engnaman7752/leetcode1/tree/master/0875-longest-mountain-in-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/engnaman7752/leetcode1/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/engnaman7752/leetcode1/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0936-rle-iterator](https://github.com/engnaman7752/leetcode1/tree/master/0936-rle-iterator) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/engnaman7752/leetcode1/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/engnaman7752/leetcode1/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/engnaman7752/leetcode1/tree/master/0868-push-dominoes) |
+| [0875-longest-mountain-in-array](https://github.com/engnaman7752/leetcode1/tree/master/0875-longest-mountain-in-array) |
 | [1129-longest-string-chain](https://github.com/engnaman7752/leetcode1/tree/master/1129-longest-string-chain) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/engnaman7752/leetcode1/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/engnaman7752/leetcode1/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/engnaman7752/leetcode1/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/engnaman7752/leetcode1/tree/master/0747-min-cost-climbing-stairs) |
 | [0868-push-dominoes](https://github.com/engnaman7752/leetcode1/tree/master/0868-push-dominoes) |
+| [0875-longest-mountain-in-array](https://github.com/engnaman7752/leetcode1/tree/master/0875-longest-mountain-in-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/engnaman7752/leetcode1/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/engnaman7752/leetcode1/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/engnaman7752/leetcode1/tree/master/1025-minimum-cost-for-tickets) |
@@ -930,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0875-longest-mountain-in-array](https://github.com/engnaman7752/leetcode1/tree/master/0875-longest-mountain-in-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/engnaman7752/leetcode1/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/engnaman7752/leetcode1/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/engnaman7752/leetcode1/tree/master/2202-sum-of-k-mirror-numbers) |
