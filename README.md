@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/engnaman7752/leetcode1/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/engnaman7752/leetcode1/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/engnaman7752/leetcode1/tree/master/0594-longest-harmonious-subsequence) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/engnaman7752/leetcode1/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/engnaman7752/leetcode1/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/engnaman7752/leetcode1/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/engnaman7752/leetcode1/tree/master/0735-asteroid-collision) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/engnaman7752/leetcode1/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/engnaman7752/leetcode1/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/engnaman7752/leetcode1/tree/master/0542-01-matrix) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/engnaman7752/leetcode1/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/engnaman7752/leetcode1/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/engnaman7752/leetcode1/tree/master/0747-min-cost-climbing-stairs) |
 | [0868-push-dominoes](https://github.com/engnaman7752/leetcode1/tree/master/0868-push-dominoes) |
@@ -983,4 +985,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/engnaman7752/leetcode1/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/engnaman7752/leetcode1/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/engnaman7752/leetcode1/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
