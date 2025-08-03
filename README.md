@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/engnaman7752/leetcode1/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/engnaman7752/leetcode1/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/engnaman7752/leetcode1/tree/master/2215-finding-3-digit-even-numbers) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/engnaman7752/leetcode1/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/engnaman7752/leetcode1/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2249-count-the-hidden-sequences](https://github.com/engnaman7752/leetcode1/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/engnaman7752/leetcode1/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/engnaman7752/leetcode1/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/engnaman7752/leetcode1/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/engnaman7752/leetcode1/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/engnaman7752/leetcode1/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/engnaman7752/leetcode1/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/engnaman7752/leetcode1/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/engnaman7752/leetcode1/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -909,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1206-corporate-flight-bookings](https://github.com/engnaman7752/leetcode1/tree/master/1206-corporate-flight-bookings) |
 | [1477-product-of-the-last-k-numbers](https://github.com/engnaman7752/leetcode1/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/engnaman7752/leetcode1/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/engnaman7752/leetcode1/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/engnaman7752/leetcode1/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/engnaman7752/leetcode1/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/engnaman7752/leetcode1/tree/master/2915-count-of-interesting-subarrays) |
@@ -922,6 +925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/engnaman7752/leetcode1/tree/master/0594-longest-harmonious-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/engnaman7752/leetcode1/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/engnaman7752/leetcode1/tree/master/1813-maximum-erasure-value) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/engnaman7752/leetcode1/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/engnaman7752/leetcode1/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/engnaman7752/leetcode1/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/engnaman7752/leetcode1/tree/master/2856-count-complete-subarrays-in-an-array) |
