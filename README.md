@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/engnaman7752/leetcode1/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/engnaman7752/leetcode1/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/engnaman7752/leetcode1/tree/master/2345-minimum-number-of-operations-to-convert-time) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/engnaman7752/leetcode1/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/engnaman7752/leetcode1/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/engnaman7752/leetcode1/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/engnaman7752/leetcode1/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
