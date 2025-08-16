@@ -408,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/engnaman7752/leetcode1/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/engnaman7752/leetcode1/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/engnaman7752/leetcode1/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/engnaman7752/leetcode1/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/engnaman7752/leetcode1/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/engnaman7752/leetcode1/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/engnaman7752/leetcode1/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -892,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/engnaman7752/leetcode1/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/engnaman7752/leetcode1/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1285-balance-a-binary-search-tree](https://github.com/engnaman7752/leetcode1/tree/master/1285-balance-a-binary-search-tree) |
+| [1448-maximum-69-number](https://github.com/engnaman7752/leetcode1/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/engnaman7752/leetcode1/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/engnaman7752/leetcode1/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/engnaman7752/leetcode1/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
