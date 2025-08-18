@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/engnaman7752/leetcode1/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/engnaman7752/leetcode1/tree/master/0594-longest-harmonious-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/engnaman7752/leetcode1/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0679-24-game](https://github.com/engnaman7752/leetcode1/tree/master/0679-24-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/engnaman7752/leetcode1/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/engnaman7752/leetcode1/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/engnaman7752/leetcode1/tree/master/0735-asteroid-collision) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/engnaman7752/leetcode1/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/engnaman7752/leetcode1/tree/master/0368-largest-divisible-subset) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/engnaman7752/leetcode1/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0679-24-game](https://github.com/engnaman7752/leetcode1/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/engnaman7752/leetcode1/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/engnaman7752/leetcode1/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/engnaman7752/leetcode1/tree/master/0867-new-21-game) |
@@ -837,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/engnaman7752/leetcode1/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/engnaman7752/leetcode1/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/engnaman7752/leetcode1/tree/master/0494-target-sum) |
+| [0679-24-game](https://github.com/engnaman7752/leetcode1/tree/master/0679-24-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/engnaman7752/leetcode1/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/engnaman7752/leetcode1/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/engnaman7752/leetcode1/tree/master/2456-construct-smallest-number-from-di-string) |
