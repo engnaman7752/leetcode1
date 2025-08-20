@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/engnaman7752/leetcode1/tree/master/0389-find-the-difference) |
 | [0516-longest-palindromic-subsequence](https://github.com/engnaman7752/leetcode1/tree/master/0516-longest-palindromic-subsequence) |
 | [0768-partition-labels](https://github.com/engnaman7752/leetcode1/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/engnaman7752/leetcode1/tree/master/0778-reorganize-string) |
 | [0868-push-dominoes](https://github.com/engnaman7752/leetcode1/tree/master/0868-push-dominoes) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/engnaman7752/leetcode1/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/engnaman7752/leetcode1/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/engnaman7752/leetcode1/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/engnaman7752/leetcode1/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/engnaman7752/leetcode1/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/engnaman7752/leetcode1/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/engnaman7752/leetcode1/tree/master/0797-rabbits-in-forest) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/engnaman7752/leetcode1/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/engnaman7752/leetcode1/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/engnaman7752/leetcode1/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/engnaman7752/leetcode1/tree/master/0594-longest-harmonious-subsequence) |
+| [0778-reorganize-string](https://github.com/engnaman7752/leetcode1/tree/master/0778-reorganize-string) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/engnaman7752/leetcode1/tree/master/1129-longest-string-chain) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/engnaman7752/leetcode1/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/engnaman7752/leetcode1/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/engnaman7752/leetcode1/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/engnaman7752/leetcode1/tree/master/0594-longest-harmonious-subsequence) |
+| [0778-reorganize-string](https://github.com/engnaman7752/leetcode1/tree/master/0778-reorganize-string) |
 | [0936-rle-iterator](https://github.com/engnaman7752/leetcode1/tree/master/0936-rle-iterator) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/engnaman7752/leetcode1/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/engnaman7752/leetcode1/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -853,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/engnaman7752/leetcode1/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/engnaman7752/leetcode1/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/engnaman7752/leetcode1/tree/master/0347-top-k-frequent-elements) |
+| [0778-reorganize-string](https://github.com/engnaman7752/leetcode1/tree/master/0778-reorganize-string) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/engnaman7752/leetcode1/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1753-path-with-minimum-effort](https://github.com/engnaman7752/leetcode1/tree/master/1753-path-with-minimum-effort) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/engnaman7752/leetcode1/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -897,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/engnaman7752/leetcode1/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/engnaman7752/leetcode1/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/engnaman7752/leetcode1/tree/master/0768-partition-labels) |
+| [0778-reorganize-string](https://github.com/engnaman7752/leetcode1/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/engnaman7752/leetcode1/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/engnaman7752/leetcode1/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1285-balance-a-binary-search-tree](https://github.com/engnaman7752/leetcode1/tree/master/1285-balance-a-binary-search-tree) |
