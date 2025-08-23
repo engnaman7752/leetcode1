@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/engnaman7752/leetcode1/tree/master/1753-path-with-minimum-effort) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/engnaman7752/leetcode1/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1813-maximum-erasure-value](https://github.com/engnaman7752/leetcode1/tree/master/1813-maximum-erasure-value) |
+| [1829-maximum-units-on-a-truck](https://github.com/engnaman7752/leetcode1/tree/master/1829-maximum-units-on-a-truck) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/engnaman7752/leetcode1/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/engnaman7752/leetcode1/tree/master/1876-map-of-highest-peak) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/engnaman7752/leetcode1/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/engnaman7752/leetcode1/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/engnaman7752/leetcode1/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/engnaman7752/leetcode1/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1829-maximum-units-on-a-truck](https://github.com/engnaman7752/leetcode1/tree/master/1829-maximum-units-on-a-truck) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/engnaman7752/leetcode1/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/engnaman7752/leetcode1/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/engnaman7752/leetcode1/tree/master/2215-finding-3-digit-even-numbers) |
@@ -921,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/engnaman7752/leetcode1/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/engnaman7752/leetcode1/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/engnaman7752/leetcode1/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1829-maximum-units-on-a-truck](https://github.com/engnaman7752/leetcode1/tree/master/1829-maximum-units-on-a-truck) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/engnaman7752/leetcode1/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/engnaman7752/leetcode1/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/engnaman7752/leetcode1/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
