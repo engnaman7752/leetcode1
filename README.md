@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3732-calculate-score-after-performing-instructions](https://github.com/engnaman7752/leetcode1/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/engnaman7752/leetcode1/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/engnaman7752/leetcode1/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/engnaman7752/leetcode1/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/engnaman7752/leetcode1/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
 ## Stack
 |  |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/engnaman7752/leetcode1/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/engnaman7752/leetcode1/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/engnaman7752/leetcode1/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/engnaman7752/leetcode1/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
 | ------- |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/engnaman7752/leetcode1/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/engnaman7752/leetcode1/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/engnaman7752/leetcode1/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/engnaman7752/leetcode1/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
 | ------- |
