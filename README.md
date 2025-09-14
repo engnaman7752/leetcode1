@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/engnaman7752/leetcode1/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/engnaman7752/leetcode1/tree/master/0778-reorganize-string) |
 | [0868-push-dominoes](https://github.com/engnaman7752/leetcode1/tree/master/0868-push-dominoes) |
+| [1006-vowel-spellchecker](https://github.com/engnaman7752/leetcode1/tree/master/1006-vowel-spellchecker) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/engnaman7752/leetcode1/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/engnaman7752/leetcode1/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1129-longest-string-chain](https://github.com/engnaman7752/leetcode1/tree/master/1129-longest-string-chain) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0936-rle-iterator](https://github.com/engnaman7752/leetcode1/tree/master/0936-rle-iterator) |
 | [0940-fruit-into-baskets](https://github.com/engnaman7752/leetcode1/tree/master/0940-fruit-into-baskets) |
 | [0967-minimum-falling-path-sum](https://github.com/engnaman7752/leetcode1/tree/master/0967-minimum-falling-path-sum) |
+| [1006-vowel-spellchecker](https://github.com/engnaman7752/leetcode1/tree/master/1006-vowel-spellchecker) |
 | [1025-minimum-cost-for-tickets](https://github.com/engnaman7752/leetcode1/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/engnaman7752/leetcode1/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/engnaman7752/leetcode1/tree/master/1039-find-the-town-judge) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/engnaman7752/leetcode1/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/engnaman7752/leetcode1/tree/master/0940-fruit-into-baskets) |
+| [1006-vowel-spellchecker](https://github.com/engnaman7752/leetcode1/tree/master/1006-vowel-spellchecker) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/engnaman7752/leetcode1/tree/master/1039-find-the-town-judge) |
 | [1129-longest-string-chain](https://github.com/engnaman7752/leetcode1/tree/master/1129-longest-string-chain) |
