@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/engnaman7752/leetcode1/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/engnaman7752/leetcode1/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/engnaman7752/leetcode1/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/engnaman7752/leetcode1/tree/master/0036-valid-sudoku) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/engnaman7752/leetcode1/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/engnaman7752/leetcode1/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/engnaman7752/leetcode1/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/engnaman7752/leetcode1/tree/master/0036-valid-sudoku) |
