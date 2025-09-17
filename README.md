@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/engnaman7752/leetcode1/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/engnaman7752/leetcode1/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/engnaman7752/leetcode1/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2429-design-a-food-rating-system](https://github.com/engnaman7752/leetcode1/tree/master/2429-design-a-food-rating-system) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/engnaman7752/leetcode1/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/engnaman7752/leetcode1/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2727-number-of-senior-citizens](https://github.com/engnaman7752/leetcode1/tree/master/2727-number-of-senior-citizens) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/engnaman7752/leetcode1/tree/master/1477-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/engnaman7752/leetcode1/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2139-detect-squares](https://github.com/engnaman7752/leetcode1/tree/master/2139-detect-squares) |
+| [2429-design-a-food-rating-system](https://github.com/engnaman7752/leetcode1/tree/master/2429-design-a-food-rating-system) |
 ## Array
 |  |
 | ------- |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2350-find-closest-number-to-zero](https://github.com/engnaman7752/leetcode1/tree/master/2350-find-closest-number-to-zero) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/engnaman7752/leetcode1/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/engnaman7752/leetcode1/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2429-design-a-food-rating-system](https://github.com/engnaman7752/leetcode1/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/engnaman7752/leetcode1/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/engnaman7752/leetcode1/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2448-count-number-of-bad-pairs](https://github.com/engnaman7752/leetcode1/tree/master/2448-count-number-of-bad-pairs) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/engnaman7752/leetcode1/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/engnaman7752/leetcode1/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2331-intersection-of-multiple-arrays](https://github.com/engnaman7752/leetcode1/tree/master/2331-intersection-of-multiple-arrays) |
+| [2429-design-a-food-rating-system](https://github.com/engnaman7752/leetcode1/tree/master/2429-design-a-food-rating-system) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/engnaman7752/leetcode1/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2448-count-number-of-bad-pairs](https://github.com/engnaman7752/leetcode1/tree/master/2448-count-number-of-bad-pairs) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/engnaman7752/leetcode1/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -941,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/engnaman7752/leetcode1/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/engnaman7752/leetcode1/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/engnaman7752/leetcode1/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2429-design-a-food-rating-system](https://github.com/engnaman7752/leetcode1/tree/master/2429-design-a-food-rating-system) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/engnaman7752/leetcode1/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/engnaman7752/leetcode1/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/engnaman7752/leetcode1/tree/master/2479-meeting-rooms-iii) |
@@ -1156,6 +1161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/engnaman7752/leetcode1/tree/master/0493-reverse-pairs) |
+| [2429-design-a-food-rating-system](https://github.com/engnaman7752/leetcode1/tree/master/2429-design-a-food-rating-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/engnaman7752/leetcode1/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/engnaman7752/leetcode1/tree/master/3791-fruits-into-baskets-iii) |
 ## Probability and Statistics
