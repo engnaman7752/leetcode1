@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/engnaman7752/leetcode1/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/engnaman7752/leetcode1/tree/master/0389-find-the-difference) |
 | [0516-longest-palindromic-subsequence](https://github.com/engnaman7752/leetcode1/tree/master/0516-longest-palindromic-subsequence) |
+| [0721-accounts-merge](https://github.com/engnaman7752/leetcode1/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/engnaman7752/leetcode1/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/engnaman7752/leetcode1/tree/master/0778-reorganize-string) |
 | [0868-push-dominoes](https://github.com/engnaman7752/leetcode1/tree/master/0868-push-dominoes) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/engnaman7752/leetcode1/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0679-24-game](https://github.com/engnaman7752/leetcode1/tree/master/0679-24-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/engnaman7752/leetcode1/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0721-accounts-merge](https://github.com/engnaman7752/leetcode1/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/engnaman7752/leetcode1/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/engnaman7752/leetcode1/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/engnaman7752/leetcode1/tree/master/0739-daily-temperatures) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/engnaman7752/leetcode1/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/engnaman7752/leetcode1/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/engnaman7752/leetcode1/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/engnaman7752/leetcode1/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/engnaman7752/leetcode1/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/engnaman7752/leetcode1/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/engnaman7752/leetcode1/tree/master/0797-rabbits-in-forest) |
@@ -563,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/engnaman7752/leetcode1/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/engnaman7752/leetcode1/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/engnaman7752/leetcode1/tree/master/0594-longest-harmonious-subsequence) |
+| [0721-accounts-merge](https://github.com/engnaman7752/leetcode1/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/engnaman7752/leetcode1/tree/master/0778-reorganize-string) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/engnaman7752/leetcode1/tree/master/1129-longest-string-chain) |
@@ -817,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/engnaman7752/leetcode1/tree/master/0563-binary-tree-tilt) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/engnaman7752/leetcode1/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/engnaman7752/leetcode1/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/engnaman7752/leetcode1/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/engnaman7752/leetcode1/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/engnaman7752/leetcode1/tree/master/0801-is-graph-bipartite) |
@@ -914,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/engnaman7752/leetcode1/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/engnaman7752/leetcode1/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/engnaman7752/leetcode1/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/engnaman7752/leetcode1/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/engnaman7752/leetcode1/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/engnaman7752/leetcode1/tree/master/0801-is-graph-bipartite) |
@@ -1102,6 +1108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/engnaman7752/leetcode1/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/engnaman7752/leetcode1/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/engnaman7752/leetcode1/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/engnaman7752/leetcode1/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/engnaman7752/leetcode1/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/engnaman7752/leetcode1/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/engnaman7752/leetcode1/tree/master/1073-number-of-enclaves) |
