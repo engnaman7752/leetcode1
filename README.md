@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/engnaman7752/leetcode1/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/engnaman7752/leetcode1/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/engnaman7752/leetcode1/tree/master/0747-min-cost-climbing-stairs) |
+| [0794-swim-in-rising-water](https://github.com/engnaman7752/leetcode1/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/engnaman7752/leetcode1/tree/master/0797-rabbits-in-forest) |
 | [0875-longest-mountain-in-array](https://github.com/engnaman7752/leetcode1/tree/master/0875-longest-mountain-in-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/engnaman7752/leetcode1/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/engnaman7752/leetcode1/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/engnaman7752/leetcode1/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/engnaman7752/leetcode1/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/engnaman7752/leetcode1/tree/master/0794-swim-in-rising-water) |
 | [0967-minimum-falling-path-sum](https://github.com/engnaman7752/leetcode1/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/engnaman7752/leetcode1/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/engnaman7752/leetcode1/tree/master/1073-number-of-enclaves) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/engnaman7752/leetcode1/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/engnaman7752/leetcode1/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/engnaman7752/leetcode1/tree/master/0493-reverse-pairs) |
+| [0794-swim-in-rising-water](https://github.com/engnaman7752/leetcode1/tree/master/0794-swim-in-rising-water) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/engnaman7752/leetcode1/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/engnaman7752/leetcode1/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1753-path-with-minimum-effort](https://github.com/engnaman7752/leetcode1/tree/master/1753-path-with-minimum-effort) |
@@ -827,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/engnaman7752/leetcode1/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/engnaman7752/leetcode1/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/engnaman7752/leetcode1/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/engnaman7752/leetcode1/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/engnaman7752/leetcode1/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/engnaman7752/leetcode1/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/engnaman7752/leetcode1/tree/master/0820-find-eventual-safe-states) |
@@ -925,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/engnaman7752/leetcode1/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/engnaman7752/leetcode1/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/engnaman7752/leetcode1/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/engnaman7752/leetcode1/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/engnaman7752/leetcode1/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/engnaman7752/leetcode1/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/engnaman7752/leetcode1/tree/master/0820-find-eventual-safe-states) |
@@ -977,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/engnaman7752/leetcode1/tree/master/0347-top-k-frequent-elements) |
 | [0744-network-delay-time](https://github.com/engnaman7752/leetcode1/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/engnaman7752/leetcode1/tree/master/0778-reorganize-string) |
+| [0794-swim-in-rising-water](https://github.com/engnaman7752/leetcode1/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/engnaman7752/leetcode1/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/engnaman7752/leetcode1/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/engnaman7752/leetcode1/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -1114,6 +1120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/engnaman7752/leetcode1/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/engnaman7752/leetcode1/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/engnaman7752/leetcode1/tree/master/0721-accounts-merge) |
+| [0794-swim-in-rising-water](https://github.com/engnaman7752/leetcode1/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/engnaman7752/leetcode1/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/engnaman7752/leetcode1/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/engnaman7752/leetcode1/tree/master/1073-number-of-enclaves) |
