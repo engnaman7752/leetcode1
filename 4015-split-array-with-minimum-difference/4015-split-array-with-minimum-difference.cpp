@@ -8,7 +8,6 @@ public:
         int n=nums.size();
         if(n==2)return abs(nums[0]-nums[1]);
         while(left<n-1&&nums[left]<nums[left+1]){leftSum+=nums[left];left++;}
-        cout<<left;
         right=left+1;
         while(right<n-1){
             if(nums[right]<=nums[right+1])return -1;
