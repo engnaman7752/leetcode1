@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/engnaman7752/leetcode1/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/engnaman7752/leetcode1/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/engnaman7752/leetcode1/tree/master/0368-largest-divisible-subset) |
+| [0407-trapping-rain-water-ii](https://github.com/engnaman7752/leetcode1/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/engnaman7752/leetcode1/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/engnaman7752/leetcode1/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/engnaman7752/leetcode1/tree/master/0455-assign-cookies) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/engnaman7752/leetcode1/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/engnaman7752/leetcode1/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/engnaman7752/leetcode1/tree/master/0200-number-of-islands) |
+| [0407-trapping-rain-water-ii](https://github.com/engnaman7752/leetcode1/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/engnaman7752/leetcode1/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/engnaman7752/leetcode1/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/engnaman7752/leetcode1/tree/master/0733-flood-fill) |
@@ -951,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/engnaman7752/leetcode1/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/engnaman7752/leetcode1/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/engnaman7752/leetcode1/tree/master/0404-sum-of-left-leaves) |
+| [0407-trapping-rain-water-ii](https://github.com/engnaman7752/leetcode1/tree/master/0407-trapping-rain-water-ii) |
 | [0513-find-bottom-left-tree-value](https://github.com/engnaman7752/leetcode1/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/engnaman7752/leetcode1/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/engnaman7752/leetcode1/tree/master/0542-01-matrix) |
@@ -1014,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/engnaman7752/leetcode1/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/engnaman7752/leetcode1/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/engnaman7752/leetcode1/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/engnaman7752/leetcode1/tree/master/0407-trapping-rain-water-ii) |
 | [0744-network-delay-time](https://github.com/engnaman7752/leetcode1/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/engnaman7752/leetcode1/tree/master/0778-reorganize-string) |
 | [0794-swim-in-rising-water](https://github.com/engnaman7752/leetcode1/tree/master/0794-swim-in-rising-water) |
