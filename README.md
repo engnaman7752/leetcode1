@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/engnaman7752/leetcode1/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/engnaman7752/leetcode1/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/engnaman7752/leetcode1/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/engnaman7752/leetcode1/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/engnaman7752/leetcode1/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/engnaman7752/leetcode1/tree/master/0168-excel-sheet-column-title) |
 | [0257-binary-tree-paths](https://github.com/engnaman7752/leetcode1/tree/master/0257-binary-tree-paths) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/engnaman7752/leetcode1/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/engnaman7752/leetcode1/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/engnaman7752/leetcode1/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/engnaman7752/leetcode1/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/engnaman7752/leetcode1/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/engnaman7752/leetcode1/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/engnaman7752/leetcode1/tree/master/0189-rotate-array) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/engnaman7752/leetcode1/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/engnaman7752/leetcode1/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/engnaman7752/leetcode1/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/engnaman7752/leetcode1/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/engnaman7752/leetcode1/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/engnaman7752/leetcode1/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/engnaman7752/leetcode1/tree/master/0347-top-k-frequent-elements) |
@@ -702,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/engnaman7752/leetcode1/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/engnaman7752/leetcode1/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/engnaman7752/leetcode1/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/engnaman7752/leetcode1/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/engnaman7752/leetcode1/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/engnaman7752/leetcode1/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/engnaman7752/leetcode1/tree/master/0213-house-robber-ii) |
@@ -1250,12 +1254,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/engnaman7752/leetcode1/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/engnaman7752/leetcode1/tree/master/0386-lexicographical-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/engnaman7752/leetcode1/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/engnaman7752/leetcode1/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/engnaman7752/leetcode1/tree/master/0139-word-break) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/engnaman7752/leetcode1/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/engnaman7752/leetcode1/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Iterator
