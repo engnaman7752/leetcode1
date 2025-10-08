@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/engnaman7752/leetcode1/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/engnaman7752/leetcode1/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/engnaman7752/leetcode1/tree/master/0216-combination-sum-iii) |
+| [0239-sliding-window-maximum](https://github.com/engnaman7752/leetcode1/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/engnaman7752/leetcode1/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/engnaman7752/leetcode1/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/engnaman7752/leetcode1/tree/master/0300-longest-increasing-subsequence) |
@@ -780,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/engnaman7752/leetcode1/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/engnaman7752/leetcode1/tree/master/0387-first-unique-character-in-a-string) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/engnaman7752/leetcode1/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/engnaman7752/leetcode1/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -1032,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/engnaman7752/leetcode1/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/engnaman7752/leetcode1/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/engnaman7752/leetcode1/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/engnaman7752/leetcode1/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/engnaman7752/leetcode1/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/engnaman7752/leetcode1/tree/master/0407-trapping-rain-water-ii) |
@@ -1165,6 +1168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/engnaman7752/leetcode1/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/engnaman7752/leetcode1/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/engnaman7752/leetcode1/tree/master/0594-longest-harmonious-subsequence) |
 | [0867-new-21-game](https://github.com/engnaman7752/leetcode1/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/engnaman7752/leetcode1/tree/master/0940-fruit-into-baskets) |
@@ -1241,6 +1245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/engnaman7752/leetcode1/tree/master/0239-sliding-window-maximum) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/engnaman7752/leetcode1/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Trie
 |  |
