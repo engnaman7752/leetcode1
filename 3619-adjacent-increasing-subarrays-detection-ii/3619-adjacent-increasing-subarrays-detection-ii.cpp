@@ -1,25 +1,29 @@
 class Solution {
 public:
     int maxIncreasingSubarrays(vector<int>& nums) {
-        int n = nums.size();
-        if (n == 1) return 1;
-        vector<int> inc; 
-        int len = 1;
-        for (int i = 1; i < n; i++) {
-            if (nums[i] > nums[i - 1]) len++;
-            else {
-                inc.push_back(len);
-                len = 1;
-            }
+        int n=nums.size();
+        int c1=1;int c2=1;
+        int i=1;
+        while(i<n&&nums[i]>nums[i-1]){
+            i++;
+            c1++;
         }
-        inc.push_back(len);
-
-        int ans = 0;
-        for (int i = 0; i < inc.size(); i++) {
-            int a = inc[i] / 2;
-            ans = max(ans, a);
-            if (i > 0) ans = max(ans, min(inc[i - 1], inc[i]));
+       int ans=0;
+       i++;
+       while(i<n){
+        if(nums[i]<=nums[i-1]){
+            int a=max(c1/2,c2/2);
+            ans=max(ans,max(min(c1,c2),a));
+            c1=c2;
+            c2=1;
         }
-        return ans;
+        else{
+            c2++;
+        }
+        i++;
+       }
+        int a=max(c1/2,c2/2);
+            ans=max(ans,max(min(c1,c2),a));
+       return ans;
     }
 };
