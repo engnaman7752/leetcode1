@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/engnaman7752/leetcode1/tree/master/2727-number-of-senior-citizens) |
 | [2887-sort-vowels-in-a-string](https://github.com/engnaman7752/leetcode1/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/engnaman7752/leetcode1/tree/master/3194-find-words-containing-character) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/engnaman7752/leetcode1/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/engnaman7752/leetcode1/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/engnaman7752/leetcode1/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/engnaman7752/leetcode1/tree/master/3447-clear-digits) |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/engnaman7752/leetcode1/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/engnaman7752/leetcode1/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/engnaman7752/leetcode1/tree/master/2529-range-product-queries-of-powers) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/engnaman7752/leetcode1/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/engnaman7752/leetcode1/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/engnaman7752/leetcode1/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/engnaman7752/leetcode1/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -765,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/engnaman7752/leetcode1/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2808-painting-the-walls](https://github.com/engnaman7752/leetcode1/tree/master/2808-painting-the-walls) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/engnaman7752/leetcode1/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/engnaman7752/leetcode1/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/engnaman7752/leetcode1/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/engnaman7752/leetcode1/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/engnaman7752/leetcode1/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -1333,4 +1336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/engnaman7752/leetcode1/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Bitmask
+|  |
+| ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/engnaman7752/leetcode1/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 <!---LeetCode Topics End-->
