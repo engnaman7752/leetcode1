@@ -483,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/engnaman7752/leetcode1/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2139-detect-squares](https://github.com/engnaman7752/leetcode1/tree/master/2139-detect-squares) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/engnaman7752/leetcode1/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/engnaman7752/leetcode1/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/engnaman7752/leetcode1/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/engnaman7752/leetcode1/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/engnaman7752/leetcode1/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/engnaman7752/leetcode1/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/engnaman7752/leetcode1/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/engnaman7752/leetcode1/tree/master/2050-count-good-numbers) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/engnaman7752/leetcode1/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/engnaman7752/leetcode1/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/engnaman7752/leetcode1/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/engnaman7752/leetcode1/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/engnaman7752/leetcode1/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2139-detect-squares](https://github.com/engnaman7752/leetcode1/tree/master/2139-detect-squares) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/engnaman7752/leetcode1/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/engnaman7752/leetcode1/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/engnaman7752/leetcode1/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2331-intersection-of-multiple-arrays](https://github.com/engnaman7752/leetcode1/tree/master/2331-intersection-of-multiple-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/engnaman7752/leetcode1/tree/master/2448-count-number-of-bad-pairs) |
@@ -1064,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/engnaman7752/leetcode1/tree/master/0813-all-paths-from-source-to-target) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/engnaman7752/leetcode1/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/engnaman7752/leetcode1/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/engnaman7752/leetcode1/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/engnaman7752/leetcode1/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/engnaman7752/leetcode1/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Heap (Priority Queue)
@@ -1263,6 +1267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/engnaman7752/leetcode1/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/engnaman7752/leetcode1/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/engnaman7752/leetcode1/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/engnaman7752/leetcode1/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/engnaman7752/leetcode1/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/engnaman7752/leetcode1/tree/master/2215-finding-3-digit-even-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/engnaman7752/leetcode1/tree/master/3201-distribute-candies-among-children-ii) |
