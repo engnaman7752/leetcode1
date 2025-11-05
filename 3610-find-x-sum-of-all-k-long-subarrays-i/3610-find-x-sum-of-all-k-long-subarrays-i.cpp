@@ -1,35 +1,33 @@
 class Solution {
 public:
-    vector<int> findXSum(vector<int>& nums, int k, int x) {
-        int l=0;
-        int r=0;
-        int n=nums.size();
-        vector<int>ans;
-        map<int,int>mp;
-        while(r<n){
-            mp[nums[r]]++;
-            if(r-l+1==k){
-                vector<pair<int,int>>sum;
-                for(auto it:mp){
-                    if(it.second!=0)
-                    sum.push_back({it.second,it.first});
-                }
-                 sort(sum.begin(), sum.end(), [&](auto &a, auto &b){
-                    if (a.first == b.first) return a.second > b.second; 
-                    return a.first > b.first; 
-                });
-                int i=0;
-                int s=0;
-                while(i<sum.size()&&i<x){
-                    s+=sum[i].first*sum[i].second;
-                    i++;
-                }
-                ans.push_back(s);
-                mp[nums[l]]--;
-                l++;
-            }
-            r++;
+    int xsum(unordered_map<int,int> &map, int x){
+        priority_queue<pair<int,int>> pq;
+        for(auto e : map) pq.push({e.second,e.first});
+        int sum = 0;
+        while(x-- && !pq.empty()){
+            sum += (pq.top().second * pq.top().first);
+            pq.pop();
         }
+        return sum;
+    }
+
+    vector<int> findXSum(vector<int>& nums, int k, int x) {
+        int n = nums.size();
+        vector<int> ans(n-k+1);
+        int l = 0, r;
+        unordered_map<int,int> map;
+        for(r = 0; r < k; r++){
+            map[nums[r]]++;
+        }
+        ans[l] = xsum(map,x);
+
+        for(r = k; r < n; r++){
+            map[nums[l]]--;
+            if(map[nums[l]] == 0) map.erase(nums[l]);
+            map[nums[r]]++;
+            ans[++l] = xsum(map,x);
+        }
+
         return ans;
     }
 };
