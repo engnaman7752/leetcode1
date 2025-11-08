@@ -636,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/engnaman7752/leetcode1/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/engnaman7752/leetcode1/tree/master/0389-find-the-difference) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/engnaman7752/leetcode1/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/engnaman7752/leetcode1/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/engnaman7752/leetcode1/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/engnaman7752/leetcode1/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/engnaman7752/leetcode1/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -812,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/engnaman7752/leetcode1/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/engnaman7752/leetcode1/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/engnaman7752/leetcode1/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/engnaman7752/leetcode1/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/engnaman7752/leetcode1/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/engnaman7752/leetcode1/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/engnaman7752/leetcode1/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -1363,6 +1365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/engnaman7752/leetcode1/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/engnaman7752/leetcode1/tree/master/0139-word-break) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/engnaman7752/leetcode1/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/engnaman7752/leetcode1/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/engnaman7752/leetcode1/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Iterator
