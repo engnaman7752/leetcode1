@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/engnaman7752/leetcode1/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/engnaman7752/leetcode1/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/engnaman7752/leetcode1/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3531-count-covered-buildings](https://github.com/engnaman7752/leetcode1/tree/master/3531-count-covered-buildings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/engnaman7752/leetcode1/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3576-transform-array-to-all-equal-elements](https://github.com/engnaman7752/leetcode1/tree/master/3576-transform-array-to-all-equal-elements) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/engnaman7752/leetcode1/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/engnaman7752/leetcode1/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/engnaman7752/leetcode1/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/engnaman7752/leetcode1/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3531-count-covered-buildings](https://github.com/engnaman7752/leetcode1/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/engnaman7752/leetcode1/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/engnaman7752/leetcode1/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/engnaman7752/leetcode1/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/engnaman7752/leetcode1/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/engnaman7752/leetcode1/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/engnaman7752/leetcode1/tree/master/3510-maximize-the-total-height-of-unique-towers) |
+| [3531-count-covered-buildings](https://github.com/engnaman7752/leetcode1/tree/master/3531-count-covered-buildings) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/engnaman7752/leetcode1/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/engnaman7752/leetcode1/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/engnaman7752/leetcode1/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
