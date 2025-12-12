@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/engnaman7752/leetcode1/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/engnaman7752/leetcode1/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/engnaman7752/leetcode1/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/engnaman7752/leetcode1/tree/master/3433-count-mentions-per-user) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/engnaman7752/leetcode1/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/engnaman7752/leetcode1/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/engnaman7752/leetcode1/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/engnaman7752/leetcode1/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/engnaman7752/leetcode1/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/engnaman7752/leetcode1/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/engnaman7752/leetcode1/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/engnaman7752/leetcode1/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/engnaman7752/leetcode1/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/engnaman7752/leetcode1/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -760,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/engnaman7752/leetcode1/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/engnaman7752/leetcode1/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/engnaman7752/leetcode1/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3433-count-mentions-per-user](https://github.com/engnaman7752/leetcode1/tree/master/3433-count-mentions-per-user) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/engnaman7752/leetcode1/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3531-count-covered-buildings](https://github.com/engnaman7752/leetcode1/tree/master/3531-count-covered-buildings) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/engnaman7752/leetcode1/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -916,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/engnaman7752/leetcode1/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/engnaman7752/leetcode1/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-water-bottles-ii](https://github.com/engnaman7752/leetcode1/tree/master/3336-water-bottles-ii) |
+| [3433-count-mentions-per-user](https://github.com/engnaman7752/leetcode1/tree/master/3433-count-mentions-per-user) |
 | [3447-clear-digits](https://github.com/engnaman7752/leetcode1/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/engnaman7752/leetcode1/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/engnaman7752/leetcode1/tree/master/3600-find-the-k-th-character-in-string-game-i) |
