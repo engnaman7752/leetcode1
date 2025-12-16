@@ -41,19 +41,21 @@ public:
 
     int maxProfit(int n_, vector<int>& present, vector<int>& future,
                   vector<vector<int>>& hierarchy, int budget) {
+
         n = n_;
         B = budget;
         pre = present;
         fut = future;
+
         adj.assign(n, {});
         for (auto &e : hierarchy) {
-            int u = e[0] - 1;   
+            int u = e[0] - 1;  
             int v = e[1] - 1;
             adj[u].push_back(v);
         }
 
         dp.assign(n, vector<vector<int>>(2));
-        auto &ans = dfs(0, 0);  
+        auto &ans = dfs(0, 0);   
         return *max_element(ans.begin(), ans.end());
     }
 };
