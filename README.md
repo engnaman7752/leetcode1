@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/engnaman7752/leetcode1/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/engnaman7752/leetcode1/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/engnaman7752/leetcode1/tree/master/0721-accounts-merge) |
+| [0756-pyramid-transition-matrix](https://github.com/engnaman7752/leetcode1/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/engnaman7752/leetcode1/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/engnaman7752/leetcode1/tree/master/0778-reorganize-string) |
 | [0868-push-dominoes](https://github.com/engnaman7752/leetcode1/tree/master/0868-push-dominoes) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/engnaman7752/leetcode1/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/engnaman7752/leetcode1/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/engnaman7752/leetcode1/tree/master/0721-accounts-merge) |
+| [0756-pyramid-transition-matrix](https://github.com/engnaman7752/leetcode1/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/engnaman7752/leetcode1/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/engnaman7752/leetcode1/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/engnaman7752/leetcode1/tree/master/0797-rabbits-in-forest) |
@@ -722,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/engnaman7752/leetcode1/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/engnaman7752/leetcode1/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/engnaman7752/leetcode1/tree/master/0389-find-the-difference) |
+| [0756-pyramid-transition-matrix](https://github.com/engnaman7752/leetcode1/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/engnaman7752/leetcode1/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/engnaman7752/leetcode1/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/engnaman7752/leetcode1/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -1229,6 +1232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/engnaman7752/leetcode1/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/engnaman7752/leetcode1/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/engnaman7752/leetcode1/tree/master/0679-24-game) |
+| [0756-pyramid-transition-matrix](https://github.com/engnaman7752/leetcode1/tree/master/0756-pyramid-transition-matrix) |
 | [0813-all-paths-from-source-to-target](https://github.com/engnaman7752/leetcode1/tree/master/0813-all-paths-from-source-to-target) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/engnaman7752/leetcode1/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/engnaman7752/leetcode1/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
