@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/engnaman7752/leetcode1/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/engnaman7752/leetcode1/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/engnaman7752/leetcode1/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/engnaman7752/leetcode1/tree/master/0840-magic-squares-in-grid) |
 | [0875-longest-mountain-in-array](https://github.com/engnaman7752/leetcode1/tree/master/0875-longest-mountain-in-array) |
 | [0890-lemonade-change](https://github.com/engnaman7752/leetcode1/tree/master/0890-lemonade-change) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/engnaman7752/leetcode1/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/engnaman7752/leetcode1/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/engnaman7752/leetcode1/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/engnaman7752/leetcode1/tree/master/0794-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/engnaman7752/leetcode1/tree/master/0840-magic-squares-in-grid) |
 | [0967-minimum-falling-path-sum](https://github.com/engnaman7752/leetcode1/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/engnaman7752/leetcode1/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/engnaman7752/leetcode1/tree/master/1073-number-of-enclaves) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/engnaman7752/leetcode1/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/engnaman7752/leetcode1/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/engnaman7752/leetcode1/tree/master/0797-rabbits-in-forest) |
+| [0840-magic-squares-in-grid](https://github.com/engnaman7752/leetcode1/tree/master/0840-magic-squares-in-grid) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/engnaman7752/leetcode1/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/engnaman7752/leetcode1/tree/master/0940-fruit-into-baskets) |
@@ -628,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/engnaman7752/leetcode1/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/engnaman7752/leetcode1/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/engnaman7752/leetcode1/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/engnaman7752/leetcode1/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/engnaman7752/leetcode1/tree/master/0867-new-21-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/engnaman7752/leetcode1/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/engnaman7752/leetcode1/tree/master/1018-largest-perimeter-triangle) |
