@@ -18,6 +18,7 @@ public:
         while (!pq.empty()) {
             auto [amnt, time, node] = pq.top();
             pq.pop();
+            if(node==n-1)return amnt;
             if (amnt > mon[node][time]) continue;
             for (auto [neighbour, nodeTime] : adj[node]) {
                 int newTime = time + nodeTime;
@@ -31,11 +32,6 @@ public:
             }
         }
 
-        int ans = INT_MAX;
-        for (int t = 0; t <= maxTime; t++) {
-            ans = min(ans, mon[n-1][t]);
-        }
-
-        return ans == INT_MAX ? -1 : ans;
+        return -1;
     }
 };
