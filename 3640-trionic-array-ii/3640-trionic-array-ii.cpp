@@ -1,51 +1,48 @@
 class Solution {
+    //thanks to leetcode all solution
 public:
-    long long maxSumTrionic(vector<int>& nums) {
-        int n = nums.size();
-        int p, q, j;
-        long long max_sum, sum, res;
-        long long ans = LLONG_MIN;
-        for (int i = 0; i < n; i++) {
-            j = i + 1;
-            res = 0;
-            // first segment
-            for (; j < n && nums[j - 1] < nums[j]; j++);
-            p = j - 1;
-            if (p == i) {
-                continue;
+    long long dp[100001][3][2];
+    vector<int> a;
+    int n;
+    long long MN = -1e16;
+    long long INF = 1e16;
+
+    long long solve(int i, int state, int started) {
+        if (state == 3) return 0;
+        if (i == n) return MN;
+        long long &t = dp[i][state][started];
+        if (t != INF) return t;
+        long long ans = MN;
+        if (!started) {
+            ans = max(ans, a[i] + solve(i + 1, state, 1));
+            ans = max(ans,  solve(i + 1, state, 0));
+        } else {
+            if (state == 0 && a[i] > a[i - 1]) {
+                ans = max(ans, a[i] + solve(i + 1, 0, 1));
+                ans = max(ans, a[i] + solve(i + 1, 1, 1));
             }
-            // second segment
-            res += nums[p] + nums[p - 1];
-            for (; j < n && nums[j - 1] > nums[j]; j++) {
-                res += nums[j];
+            if (state == 1 && a[i] < a[i - 1]) {
+                ans = max(ans, a[i] + solve(i + 1, 1, 1));
+                ans = max(ans, a[i] + solve(i + 1, 2, 1));
             }
-            q = j - 1;
-            if (q == p || q == n - 1 || (nums[j] <= nums[q])) {
-                i = q;
-                continue;
+            if (state == 2 && a[i] > a[i - 1]) {
+                ans = max(ans, a[i] + solve(i + 1, 2, 1));
+                ans = max(ans, a[i] + solve(i + 1, 3, 1));
             }
-            // third segment
-            res += nums[q + 1];
-            // find the maximum sum of the third segment
-            max_sum = 0;
-            sum = 0;
-            for (int k = q + 2; k < n && nums[k] > nums[k - 1]; k++) {
-                sum += nums[k];
-                max_sum = max(max_sum, sum);
-            }
-            res += max_sum;
-            // find the maximum sum of the first segment
-            max_sum = 0;
-            sum = 0;
-            for (int k = p - 2; k >= i; k--) {
-                sum += nums[k];
-                max_sum = max(max_sum, sum);
-            }
-            res += max_sum;
-            // update answer
-            ans = max(ans, res);
-            i = q - 1;
         }
-        return ans;
+
+        return t = ans;
+    }
+
+    long long maxSumTrionic(vector<int>& nums) {
+        a = nums;
+        n = a.size();
+
+        for (int i = 0; i <= n; i++)
+            for (int j = 0; j < 3; j++)
+                for (int k = 0; k < 2; k++)
+                    dp[i][j][k] = INF;
+
+        return solve(0, 0, 0);
     }
 };
