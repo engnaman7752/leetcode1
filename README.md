@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/engnaman7752/leetcode1/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3321-type-of-triangle](https://github.com/engnaman7752/leetcode1/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/engnaman7752/leetcode1/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3379-transformed-array](https://github.com/engnaman7752/leetcode1/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/engnaman7752/leetcode1/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/engnaman7752/leetcode1/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/engnaman7752/leetcode1/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -1030,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/engnaman7752/leetcode1/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/engnaman7752/leetcode1/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-water-bottles-ii](https://github.com/engnaman7752/leetcode1/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/engnaman7752/leetcode1/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/engnaman7752/leetcode1/tree/master/3433-count-mentions-per-user) |
 | [3447-clear-digits](https://github.com/engnaman7752/leetcode1/tree/master/3447-clear-digits) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/engnaman7752/leetcode1/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
