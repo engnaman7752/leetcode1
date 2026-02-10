@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/engnaman7752/leetcode1/tree/master/3606-coupon-code-validator) |
 | [3617-find-the-original-typed-string-i](https://github.com/engnaman7752/leetcode1/tree/master/3617-find-the-original-typed-string-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/engnaman7752/leetcode1/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/engnaman7752/leetcode1/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/engnaman7752/leetcode1/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/engnaman7752/leetcode1/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/engnaman7752/leetcode1/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -658,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-design-task-manager](https://github.com/engnaman7752/leetcode1/tree/master/3678-design-task-manager) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/engnaman7752/leetcode1/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3719-longest-balanced-subarray-i](https://github.com/engnaman7752/leetcode1/tree/master/3719-longest-balanced-subarray-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/engnaman7752/leetcode1/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/engnaman7752/leetcode1/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/engnaman7752/leetcode1/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/engnaman7752/leetcode1/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -921,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/engnaman7752/leetcode1/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/engnaman7752/leetcode1/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/engnaman7752/leetcode1/tree/master/3583-count-special-triplets) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/engnaman7752/leetcode1/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/engnaman7752/leetcode1/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/engnaman7752/leetcode1/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/engnaman7752/leetcode1/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -1469,6 +1472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/engnaman7752/leetcode1/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3647-zero-array-transformation-iii](https://github.com/engnaman7752/leetcode1/tree/master/3647-zero-array-transformation-iii) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/engnaman7752/leetcode1/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/engnaman7752/leetcode1/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3738-make-array-non-decreasing](https://github.com/engnaman7752/leetcode1/tree/master/3738-make-array-non-decreasing) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/engnaman7752/leetcode1/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/engnaman7752/leetcode1/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
@@ -1603,6 +1607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/engnaman7752/leetcode1/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/engnaman7752/leetcode1/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/engnaman7752/leetcode1/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/engnaman7752/leetcode1/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3799-word-squares-ii](https://github.com/engnaman7752/leetcode1/tree/master/3799-word-squares-ii) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/engnaman7752/leetcode1/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Recursion
