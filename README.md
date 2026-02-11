@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3704-count-partitions-with-even-sum-difference](https://github.com/engnaman7752/leetcode1/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/engnaman7752/leetcode1/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3719-longest-balanced-subarray-i](https://github.com/engnaman7752/leetcode1/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/engnaman7752/leetcode1/tree/master/3721-longest-balanced-subarray-ii) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/engnaman7752/leetcode1/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/engnaman7752/leetcode1/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3738-make-array-non-decreasing](https://github.com/engnaman7752/leetcode1/tree/master/3738-make-array-non-decreasing) |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3705-find-the-largest-almost-missing-integer](https://github.com/engnaman7752/leetcode1/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3719-longest-balanced-subarray-i](https://github.com/engnaman7752/leetcode1/tree/master/3719-longest-balanced-subarray-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/engnaman7752/leetcode1/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3721-longest-balanced-subarray-ii](https://github.com/engnaman7752/leetcode1/tree/master/3721-longest-balanced-subarray-ii) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/engnaman7752/leetcode1/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/engnaman7752/leetcode1/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/engnaman7752/leetcode1/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -1408,6 +1410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/engnaman7752/leetcode1/tree/master/1285-balance-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/engnaman7752/leetcode1/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/engnaman7752/leetcode1/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/engnaman7752/leetcode1/tree/master/3721-longest-balanced-subarray-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -1523,6 +1526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/engnaman7752/leetcode1/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/engnaman7752/leetcode1/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3719-longest-balanced-subarray-i](https://github.com/engnaman7752/leetcode1/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/engnaman7752/leetcode1/tree/master/3721-longest-balanced-subarray-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/engnaman7752/leetcode1/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Sliding Window
 |  |
@@ -1672,6 +1676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/engnaman7752/leetcode1/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/engnaman7752/leetcode1/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3719-longest-balanced-subarray-i](https://github.com/engnaman7752/leetcode1/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/engnaman7752/leetcode1/tree/master/3721-longest-balanced-subarray-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/engnaman7752/leetcode1/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/engnaman7752/leetcode1/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
