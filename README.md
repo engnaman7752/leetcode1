@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/engnaman7752/leetcode1/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/engnaman7752/leetcode1/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/engnaman7752/leetcode1/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/engnaman7752/leetcode1/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/engnaman7752/leetcode1/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/engnaman7752/leetcode1/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/engnaman7752/leetcode1/tree/master/0131-palindrome-partitioning) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/engnaman7752/leetcode1/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/engnaman7752/leetcode1/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/engnaman7752/leetcode1/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/engnaman7752/leetcode1/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/engnaman7752/leetcode1/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/engnaman7752/leetcode1/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/engnaman7752/leetcode1/tree/master/0127-word-ladder) |
@@ -1540,6 +1542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/engnaman7752/leetcode1/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/engnaman7752/leetcode1/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/engnaman7752/leetcode1/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/engnaman7752/leetcode1/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/engnaman7752/leetcode1/tree/master/0594-longest-harmonious-subsequence) |
