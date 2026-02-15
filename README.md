@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/engnaman7752/leetcode1/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/engnaman7752/leetcode1/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/engnaman7752/leetcode1/tree/master/0044-wildcard-matching) |
+| [0067-add-binary](https://github.com/engnaman7752/leetcode1/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/engnaman7752/leetcode1/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/engnaman7752/leetcode1/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/engnaman7752/leetcode1/tree/master/0115-distinct-subsequences) |
@@ -687,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/engnaman7752/leetcode1/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/engnaman7752/leetcode1/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/engnaman7752/leetcode1/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/engnaman7752/leetcode1/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/engnaman7752/leetcode1/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/engnaman7752/leetcode1/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/engnaman7752/leetcode1/tree/master/0189-rotate-array) |
@@ -795,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/engnaman7752/leetcode1/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/engnaman7752/leetcode1/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/engnaman7752/leetcode1/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/engnaman7752/leetcode1/tree/master/0222-count-complete-tree-nodes) |
@@ -1035,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/engnaman7752/leetcode1/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/engnaman7752/leetcode1/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/engnaman7752/leetcode1/tree/master/0735-asteroid-collision) |
 | [1552-build-an-array-with-stack-operations](https://github.com/engnaman7752/leetcode1/tree/master/1552-build-an-array-with-stack-operations) |
