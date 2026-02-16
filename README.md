@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/engnaman7752/leetcode1/tree/master/1039-find-the-town-judge) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/engnaman7752/leetcode1/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/engnaman7752/leetcode1/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1052-grumpy-bookstore-owner](https://github.com/engnaman7752/leetcode1/tree/master/1052-grumpy-bookstore-owner) |
 | [1063-best-sightseeing-pair](https://github.com/engnaman7752/leetcode1/tree/master/1063-best-sightseeing-pair) |
 | [1072-next-greater-node-in-linked-list](https://github.com/engnaman7752/leetcode1/tree/master/1072-next-greater-node-in-linked-list) |
 | [1073-number-of-enclaves](https://github.com/engnaman7752/leetcode1/tree/master/1073-number-of-enclaves) |
@@ -1556,6 +1557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/engnaman7752/leetcode1/tree/master/0594-longest-harmonious-subsequence) |
 | [0867-new-21-game](https://github.com/engnaman7752/leetcode1/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/engnaman7752/leetcode1/tree/master/0940-fruit-into-baskets) |
+| [1052-grumpy-bookstore-owner](https://github.com/engnaman7752/leetcode1/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/engnaman7752/leetcode1/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/engnaman7752/leetcode1/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/engnaman7752/leetcode1/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
