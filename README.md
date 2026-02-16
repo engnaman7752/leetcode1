@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/engnaman7752/leetcode1/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/engnaman7752/leetcode1/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/engnaman7752/leetcode1/tree/master/1293-three-consecutive-odds) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/engnaman7752/leetcode1/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/engnaman7752/leetcode1/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/engnaman7752/leetcode1/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/engnaman7752/leetcode1/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -1555,6 +1556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/engnaman7752/leetcode1/tree/master/0594-longest-harmonious-subsequence) |
 | [0867-new-21-game](https://github.com/engnaman7752/leetcode1/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/engnaman7752/leetcode1/tree/master/0940-fruit-into-baskets) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/engnaman7752/leetcode1/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/engnaman7752/leetcode1/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/engnaman7752/leetcode1/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/engnaman7752/leetcode1/tree/master/1813-maximum-erasure-value) |
