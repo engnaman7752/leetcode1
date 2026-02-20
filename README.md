@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/engnaman7752/leetcode1/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/engnaman7752/leetcode1/tree/master/0721-accounts-merge) |
 | [0756-pyramid-transition-matrix](https://github.com/engnaman7752/leetcode1/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/engnaman7752/leetcode1/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/engnaman7752/leetcode1/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/engnaman7752/leetcode1/tree/master/0778-reorganize-string) |
 | [0868-push-dominoes](https://github.com/engnaman7752/leetcode1/tree/master/0868-push-dominoes) |
@@ -864,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/engnaman7752/leetcode1/tree/master/0658-find-k-closest-elements) |
 | [0721-accounts-merge](https://github.com/engnaman7752/leetcode1/tree/master/0721-accounts-merge) |
 | [0759-set-intersection-size-at-least-two](https://github.com/engnaman7752/leetcode1/tree/master/0759-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/engnaman7752/leetcode1/tree/master/0761-special-binary-string) |
 | [0778-reorganize-string](https://github.com/engnaman7752/leetcode1/tree/master/0778-reorganize-string) |
 | [1018-largest-perimeter-triangle](https://github.com/engnaman7752/leetcode1/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -1449,6 +1451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/engnaman7752/leetcode1/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/engnaman7752/leetcode1/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/engnaman7752/leetcode1/tree/master/0493-reverse-pairs) |
+| [0761-special-binary-string](https://github.com/engnaman7752/leetcode1/tree/master/0761-special-binary-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/engnaman7752/leetcode1/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/engnaman7752/leetcode1/tree/master/1285-balance-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/engnaman7752/leetcode1/tree/master/1382-balance-a-binary-search-tree) |
