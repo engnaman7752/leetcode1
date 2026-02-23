@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/engnaman7752/leetcode1/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/engnaman7752/leetcode1/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/engnaman7752/leetcode1/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/engnaman7752/leetcode1/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/engnaman7752/leetcode1/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/engnaman7752/leetcode1/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/engnaman7752/leetcode1/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -632,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/engnaman7752/leetcode1/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/engnaman7752/leetcode1/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/engnaman7752/leetcode1/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1500-count-largest-group](https://github.com/engnaman7752/leetcode1/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/engnaman7752/leetcode1/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/engnaman7752/leetcode1/tree/master/1590-make-sum-divisible-by-p) |
@@ -834,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-binary-gap](https://github.com/engnaman7752/leetcode1/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/engnaman7752/leetcode1/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/engnaman7752/leetcode1/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/engnaman7752/leetcode1/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/engnaman7752/leetcode1/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/engnaman7752/leetcode1/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/engnaman7752/leetcode1/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1802,4 +1805,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/engnaman7752/leetcode1/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/engnaman7752/leetcode1/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/engnaman7752/leetcode1/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/engnaman7752/leetcode1/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/engnaman7752/leetcode1/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
