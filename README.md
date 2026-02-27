@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/engnaman7752/leetcode1/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/engnaman7752/leetcode1/tree/master/3606-coupon-code-validator) |
 | [3617-find-the-original-typed-string-i](https://github.com/engnaman7752/leetcode1/tree/master/3617-find-the-original-typed-string-i) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/engnaman7752/leetcode1/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/engnaman7752/leetcode1/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3713-longest-balanced-substring-i](https://github.com/engnaman7752/leetcode1/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/engnaman7752/leetcode1/tree/master/3714-longest-balanced-substring-ii) |
@@ -775,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/engnaman7752/leetcode1/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3623-count-number-of-trapezoids-i](https://github.com/engnaman7752/leetcode1/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/engnaman7752/leetcode1/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/engnaman7752/leetcode1/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/engnaman7752/leetcode1/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/engnaman7752/leetcode1/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/engnaman7752/leetcode1/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -1368,6 +1370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/engnaman7752/leetcode1/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/engnaman7752/leetcode1/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/engnaman7752/leetcode1/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/engnaman7752/leetcode1/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3863-power-grid-maintenance](https://github.com/engnaman7752/leetcode1/tree/master/3863-power-grid-maintenance) |
 ## Backtracking
 |  |
@@ -1759,6 +1762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/engnaman7752/leetcode1/tree/master/2429-design-a-food-rating-system) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/engnaman7752/leetcode1/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/engnaman7752/leetcode1/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/engnaman7752/leetcode1/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3678-design-task-manager](https://github.com/engnaman7752/leetcode1/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/engnaman7752/leetcode1/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/engnaman7752/leetcode1/tree/master/3791-fruits-into-baskets-iii) |
@@ -1816,4 +1820,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/engnaman7752/leetcode1/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Union-Find
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/engnaman7752/leetcode1/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
