@@ -1,23 +1,29 @@
 class Solution {
 public:
-bool check(int i,int j,vector<vector<int>>&mat){
-     int n=mat.size();int m=mat[0].size();
-    for(int k=0;k<m;k++){
-        if(mat[i][k]==1&&k!=j)return false;
-    }
-    for(int k=0;k<n;k++){
-        if(mat[k][j]==1&&k!=i)return false;
-    }
-    return true;
-}
     int numSpecial(vector<vector<int>>& mat) {
-        int cnt=0;
-        int n=mat.size();int m=mat[0].size();
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(mat[i][j]==1&&check(i,j,mat))cnt++;
+        int m = mat.size();
+        int n = mat[0].size();
+        vector<int> rowCount(m+1, 0);
+        vector<int> colCount(n+1, 0);
+        // pre compute the count of 1
+        for(int i = 0; i < m; i++){
+            for(int j = 0; j < n; j++){
+                if(mat[i][j] == 1){
+                    rowCount[i] +=1;
+                    colCount[j] +=1;
+                }
             }
         }
-        return cnt;
+        // now traversing once again
+        int total = 0;
+        for(int row = 0; row < m; row++){
+            for(int col = 0; col < n; col++){
+                if(mat[row][col] == 1 && rowCount[row] <= 1 && colCount[col] <= 1){
+                    total++;
+                    
+                }
+            }
+        }
+        return total;
     }
 };
