@@ -826,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/engnaman7752/leetcode1/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/engnaman7752/leetcode1/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3453-separate-squares-i](https://github.com/engnaman7752/leetcode1/tree/master/3453-separate-squares-i) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/engnaman7752/leetcode1/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/engnaman7752/leetcode1/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/engnaman7752/leetcode1/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/engnaman7752/leetcode1/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -1551,6 +1552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/engnaman7752/leetcode1/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/engnaman7752/leetcode1/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3576-transform-array-to-all-equal-elements](https://github.com/engnaman7752/leetcode1/tree/master/3576-transform-array-to-all-equal-elements) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/engnaman7752/leetcode1/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/engnaman7752/leetcode1/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3647-zero-array-transformation-iii](https://github.com/engnaman7752/leetcode1/tree/master/3647-zero-array-transformation-iii) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/engnaman7752/leetcode1/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
@@ -1834,6 +1836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/engnaman7752/leetcode1/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/engnaman7752/leetcode1/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/engnaman7752/leetcode1/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/engnaman7752/leetcode1/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Rolling Hash
 |  |
@@ -1846,5 +1849,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/engnaman7752/leetcode1/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/engnaman7752/leetcode1/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/engnaman7752/leetcode1/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
