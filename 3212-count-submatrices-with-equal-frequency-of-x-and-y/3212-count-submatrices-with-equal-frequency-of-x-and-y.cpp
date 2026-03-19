@@ -26,7 +26,6 @@ public:
             for(int j=0;j<m;j++){
                 if(pre[i][j].first>0&&pre[i][j].first==pre[i][j].second)ans++;
             }
-            cout<<endl;
         }
         return ans;
     }
