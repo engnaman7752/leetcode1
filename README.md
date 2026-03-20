@@ -438,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/engnaman7752/leetcode1/tree/master/3531-count-covered-buildings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/engnaman7752/leetcode1/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/engnaman7752/leetcode1/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/engnaman7752/leetcode1/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/engnaman7752/leetcode1/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3576-transform-array-to-all-equal-elements](https://github.com/engnaman7752/leetcode1/tree/master/3576-transform-array-to-all-equal-elements) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/engnaman7752/leetcode1/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/engnaman7752/leetcode1/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/engnaman7752/leetcode1/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/engnaman7752/leetcode1/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/engnaman7752/leetcode1/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/engnaman7752/leetcode1/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/engnaman7752/leetcode1/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/engnaman7752/leetcode1/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -952,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/engnaman7752/leetcode1/tree/master/3433-count-mentions-per-user) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/engnaman7752/leetcode1/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3531-count-covered-buildings](https://github.com/engnaman7752/leetcode1/tree/master/3531-count-covered-buildings) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/engnaman7752/leetcode1/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/engnaman7752/leetcode1/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/engnaman7752/leetcode1/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/engnaman7752/leetcode1/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
