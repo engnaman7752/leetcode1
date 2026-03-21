@@ -1204,6 +1204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/engnaman7752/leetcode1/tree/master/0563-binary-tree-tilt) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/engnaman7752/leetcode1/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/engnaman7752/leetcode1/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/engnaman7752/leetcode1/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/engnaman7752/leetcode1/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -1262,6 +1263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/engnaman7752/leetcode1/tree/master/0563-binary-tree-tilt) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/engnaman7752/leetcode1/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/engnaman7752/leetcode1/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/engnaman7752/leetcode1/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/engnaman7752/leetcode1/tree/master/0733-flood-fill) |
@@ -1334,6 +1336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/engnaman7752/leetcode1/tree/master/0563-binary-tree-tilt) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/engnaman7752/leetcode1/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/engnaman7752/leetcode1/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/engnaman7752/leetcode1/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/engnaman7752/leetcode1/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -1379,6 +1382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/engnaman7752/leetcode1/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/engnaman7752/leetcode1/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/engnaman7752/leetcode1/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/engnaman7752/leetcode1/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/engnaman7752/leetcode1/tree/master/0733-flood-fill) |
