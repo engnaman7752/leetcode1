@@ -10,30 +10,17 @@
  * };
  */
 class Solution {
-    private:
-    pair<int,int>naman(TreeNode* root)
-    {
-        if(root==NULL)
-        { pair<int,int>p;
-        p.first=0;
-        p.second=0;
-        return p;}
-        pair<int,int>left=naman(root->left);
-        pair<int,int>right=naman(root->right);
-       int op1=left.first;
-       int op2=right.first;
-       int op3=left.second+right.second;
-        pair<int,int>ans;
-        ans.first=max(op1,max(op2,op3));
-        ans.second=max(left.second,right.second)+1;
-      
-        return ans;
-
-      
-    }
 public:
+int maxi=0;
     int diameterOfBinaryTree(TreeNode* root) {
-        return naman(root).first;
-       
+        dfs(root);
+        return maxi-1;
+    }
+    int dfs(TreeNode* root){
+        if(root==nullptr)return 0;
+        int left=dfs(root->left);
+        int right=dfs(root->right);
+        maxi=max(left+right+1,maxi);
+        return max(left,right)+1;
     }
 };
