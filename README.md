@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/engnaman7752/leetcode1/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/engnaman7752/leetcode1/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/engnaman7752/leetcode1/tree/master/0840-magic-squares-in-grid) |
+| [0874-walking-robot-simulation](https://github.com/engnaman7752/leetcode1/tree/master/0874-walking-robot-simulation) |
 | [0875-longest-mountain-in-array](https://github.com/engnaman7752/leetcode1/tree/master/0875-longest-mountain-in-array) |
 | [0890-lemonade-change](https://github.com/engnaman7752/leetcode1/tree/master/0890-lemonade-change) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/engnaman7752/leetcode1/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -667,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/engnaman7752/leetcode1/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/engnaman7752/leetcode1/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/engnaman7752/leetcode1/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/engnaman7752/leetcode1/tree/master/0874-walking-robot-simulation) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/engnaman7752/leetcode1/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/engnaman7752/leetcode1/tree/master/0940-fruit-into-baskets) |
@@ -1153,6 +1155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/engnaman7752/leetcode1/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/engnaman7752/leetcode1/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/engnaman7752/leetcode1/tree/master/0735-asteroid-collision) |
+| [0874-walking-robot-simulation](https://github.com/engnaman7752/leetcode1/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/engnaman7752/leetcode1/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/engnaman7752/leetcode1/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1552-build-an-array-with-stack-operations](https://github.com/engnaman7752/leetcode1/tree/master/1552-build-an-array-with-stack-operations) |
