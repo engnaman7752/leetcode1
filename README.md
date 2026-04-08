@@ -486,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/engnaman7752/leetcode1/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/engnaman7752/leetcode1/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/engnaman7752/leetcode1/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/engnaman7752/leetcode1/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/engnaman7752/leetcode1/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/engnaman7752/leetcode1/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/engnaman7752/leetcode1/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -1190,6 +1191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/engnaman7752/leetcode1/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/engnaman7752/leetcode1/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/engnaman7752/leetcode1/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/engnaman7752/leetcode1/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/engnaman7752/leetcode1/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/engnaman7752/leetcode1/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/engnaman7752/leetcode1/tree/master/3790-fruits-into-baskets-ii) |
@@ -1574,6 +1576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/engnaman7752/leetcode1/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/engnaman7752/leetcode1/tree/master/1285-balance-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/engnaman7752/leetcode1/tree/master/1382-balance-a-binary-search-tree) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/engnaman7752/leetcode1/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/engnaman7752/leetcode1/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/engnaman7752/leetcode1/tree/master/3721-longest-balanced-subarray-ii) |
 ## Greedy
