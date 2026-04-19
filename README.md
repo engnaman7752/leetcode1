@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/engnaman7752/leetcode1/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/engnaman7752/leetcode1/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/engnaman7752/leetcode1/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/engnaman7752/leetcode1/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1876-map-of-highest-peak](https://github.com/engnaman7752/leetcode1/tree/master/1876-map-of-highest-peak) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/engnaman7752/leetcode1/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/engnaman7752/leetcode1/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -636,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/engnaman7752/leetcode1/tree/master/1129-longest-string-chain) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/engnaman7752/leetcode1/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/engnaman7752/leetcode1/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/engnaman7752/leetcode1/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/engnaman7752/leetcode1/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/engnaman7752/leetcode1/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/engnaman7752/leetcode1/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -876,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/engnaman7752/leetcode1/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/engnaman7752/leetcode1/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/engnaman7752/leetcode1/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/engnaman7752/leetcode1/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/engnaman7752/leetcode1/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/engnaman7752/leetcode1/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/engnaman7752/leetcode1/tree/master/2141-maximum-running-time-of-n-computers) |
