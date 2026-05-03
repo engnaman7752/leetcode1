@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/engnaman7752/leetcode1/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/engnaman7752/leetcode1/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/engnaman7752/leetcode1/tree/master/0778-reorganize-string) |
+| [0796-rotate-string](https://github.com/engnaman7752/leetcode1/tree/master/0796-rotate-string) |
 | [0868-push-dominoes](https://github.com/engnaman7752/leetcode1/tree/master/0868-push-dominoes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/engnaman7752/leetcode1/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/engnaman7752/leetcode1/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -2019,5 +2020,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/engnaman7752/leetcode1/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/engnaman7752/leetcode1/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
