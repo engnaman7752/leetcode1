@@ -624,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/engnaman7752/leetcode1/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/engnaman7752/leetcode1/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/engnaman7752/leetcode1/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/engnaman7752/leetcode1/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [1072-next-greater-node-in-linked-list](https://github.com/engnaman7752/leetcode1/tree/master/1072-next-greater-node-in-linked-list) |
@@ -637,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/engnaman7752/leetcode1/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/engnaman7752/leetcode1/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/engnaman7752/leetcode1/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/engnaman7752/leetcode1/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/engnaman7752/leetcode1/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/engnaman7752/leetcode1/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/engnaman7752/leetcode1/tree/master/0165-compare-version-numbers) |
