@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/engnaman7752/leetcode1/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/engnaman7752/leetcode1/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/engnaman7752/leetcode1/tree/master/1895-largest-magic-square) |
+| [1914-cyclically-rotating-a-grid](https://github.com/engnaman7752/leetcode1/tree/master/1914-cyclically-rotating-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/engnaman7752/leetcode1/tree/master/1917-maximum-average-pass-ratio) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/engnaman7752/leetcode1/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1929-concatenation-of-array](https://github.com/engnaman7752/leetcode1/tree/master/1929-concatenation-of-array) |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/engnaman7752/leetcode1/tree/master/1876-map-of-highest-peak) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/engnaman7752/leetcode1/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/engnaman7752/leetcode1/tree/master/1895-largest-magic-square) |
+| [1914-cyclically-rotating-a-grid](https://github.com/engnaman7752/leetcode1/tree/master/1914-cyclically-rotating-a-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/engnaman7752/leetcode1/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/engnaman7752/leetcode1/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/engnaman7752/leetcode1/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -1216,6 +1218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/engnaman7752/leetcode1/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1552-build-an-array-with-stack-operations](https://github.com/engnaman7752/leetcode1/tree/master/1552-build-an-array-with-stack-operations) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/engnaman7752/leetcode1/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1914-cyclically-rotating-a-grid](https://github.com/engnaman7752/leetcode1/tree/master/1914-cyclically-rotating-a-grid) |
 | [1929-concatenation-of-array](https://github.com/engnaman7752/leetcode1/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/engnaman7752/leetcode1/tree/master/2048-build-array-from-permutation) |
 | [2069-walking-robot-simulation-ii](https://github.com/engnaman7752/leetcode1/tree/master/2069-walking-robot-simulation-ii) |
