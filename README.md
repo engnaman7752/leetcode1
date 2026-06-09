@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/engnaman7752/leetcode1/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/engnaman7752/leetcode1/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/engnaman7752/leetcode1/tree/master/0168-excel-sheet-column-title) |
+| [0205-isomorphic-strings](https://github.com/engnaman7752/leetcode1/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/engnaman7752/leetcode1/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/engnaman7752/leetcode1/tree/master/0387-first-unique-character-in-a-string) |
@@ -729,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/engnaman7752/leetcode1/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/engnaman7752/leetcode1/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/engnaman7752/leetcode1/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/engnaman7752/leetcode1/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/engnaman7752/leetcode1/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/engnaman7752/leetcode1/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/engnaman7752/leetcode1/tree/master/0347-top-k-frequent-elements) |
