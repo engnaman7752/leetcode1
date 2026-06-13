@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3798-largest-even-number](https://github.com/engnaman7752/leetcode1/tree/master/3798-largest-even-number) |
 | [3799-word-squares-ii](https://github.com/engnaman7752/leetcode1/tree/master/3799-word-squares-ii) |
 | [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/engnaman7752/leetcode1/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
+| [3838-weighted-word-mapping](https://github.com/engnaman7752/leetcode1/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/engnaman7752/leetcode1/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/engnaman7752/leetcode1/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
 ## Stack
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3799-word-squares-ii](https://github.com/engnaman7752/leetcode1/tree/master/3799-word-squares-ii) |
 | [3827-implement-router](https://github.com/engnaman7752/leetcode1/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/engnaman7752/leetcode1/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3838-weighted-word-mapping](https://github.com/engnaman7752/leetcode1/tree/master/3838-weighted-word-mapping) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/engnaman7752/leetcode1/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 | [3863-power-grid-maintenance](https://github.com/engnaman7752/leetcode1/tree/master/3863-power-grid-maintenance) |
 ## Monotonic Stack
@@ -1354,6 +1356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/engnaman7752/leetcode1/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/engnaman7752/leetcode1/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/engnaman7752/leetcode1/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3838-weighted-word-mapping](https://github.com/engnaman7752/leetcode1/tree/master/3838-weighted-word-mapping) |
 ## Data Stream
 |  |
 | ------- |
