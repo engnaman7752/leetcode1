@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/engnaman7752/leetcode1/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/engnaman7752/leetcode1/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/engnaman7752/leetcode1/tree/master/3606-coupon-code-validator) |
+| [3612-process-string-with-special-operations-i](https://github.com/engnaman7752/leetcode1/tree/master/3612-process-string-with-special-operations-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/engnaman7752/leetcode1/tree/master/3617-find-the-original-typed-string-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/engnaman7752/leetcode1/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/engnaman7752/leetcode1/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -1361,6 +1362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/engnaman7752/leetcode1/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/engnaman7752/leetcode1/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/engnaman7752/leetcode1/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/engnaman7752/leetcode1/tree/master/3612-process-string-with-special-operations-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/engnaman7752/leetcode1/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/engnaman7752/leetcode1/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/engnaman7752/leetcode1/tree/master/3732-calculate-score-after-performing-instructions) |
