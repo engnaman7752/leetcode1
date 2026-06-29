@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/engnaman7752/leetcode1/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1903-largest-odd-number-in-string](https://github.com/engnaman7752/leetcode1/tree/master/1903-largest-odd-number-in-string) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/engnaman7752/leetcode1/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/engnaman7752/leetcode1/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/engnaman7752/leetcode1/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/engnaman7752/leetcode1/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/engnaman7752/leetcode1/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/engnaman7752/leetcode1/tree/master/1917-maximum-average-pass-ratio) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/engnaman7752/leetcode1/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1929-concatenation-of-array](https://github.com/engnaman7752/leetcode1/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/engnaman7752/leetcode1/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/engnaman7752/leetcode1/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/engnaman7752/leetcode1/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/engnaman7752/leetcode1/tree/master/1980-find-unique-binary-string) |
