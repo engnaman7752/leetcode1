@@ -528,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/engnaman7752/leetcode1/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/engnaman7752/leetcode1/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/engnaman7752/leetcode1/tree/master/3531-count-covered-buildings) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/engnaman7752/leetcode1/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/engnaman7752/leetcode1/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/engnaman7752/leetcode1/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/engnaman7752/leetcode1/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -863,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/engnaman7752/leetcode1/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/engnaman7752/leetcode1/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/engnaman7752/leetcode1/tree/master/3531-count-covered-buildings) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/engnaman7752/leetcode1/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/engnaman7752/leetcode1/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/engnaman7752/leetcode1/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/engnaman7752/leetcode1/tree/master/3583-count-special-triplets) |
@@ -1040,6 +1042,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/engnaman7752/leetcode1/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/engnaman7752/leetcode1/tree/master/3453-separate-squares-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/engnaman7752/leetcode1/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/engnaman7752/leetcode1/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/engnaman7752/leetcode1/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/engnaman7752/leetcode1/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-network-recovery-pathways](https://github.com/engnaman7752/leetcode1/tree/master/3620-network-recovery-pathways) |
@@ -2220,6 +2223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/engnaman7752/leetcode1/tree/master/0785-is-graph-bipartite) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/engnaman7752/leetcode1/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/engnaman7752/leetcode1/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/engnaman7752/leetcode1/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/engnaman7752/leetcode1/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/engnaman7752/leetcode1/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/engnaman7752/leetcode1/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -2240,6 +2244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/engnaman7752/leetcode1/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/engnaman7752/leetcode1/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/engnaman7752/leetcode1/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/engnaman7752/leetcode1/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/engnaman7752/leetcode1/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/engnaman7752/leetcode1/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Minimum Spanning Tree
