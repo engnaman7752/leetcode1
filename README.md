@@ -604,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/engnaman7752/leetcode1/tree/master/3838-weighted-word-mapping) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/engnaman7752/leetcode1/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 | [3863-power-grid-maintenance](https://github.com/engnaman7752/leetcode1/tree/master/3863-power-grid-maintenance) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/engnaman7752/leetcode1/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -753,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/engnaman7752/leetcode1/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/engnaman7752/leetcode1/tree/master/3643-flip-square-submatrix-vertically) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/engnaman7752/leetcode1/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/engnaman7752/leetcode1/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -998,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/engnaman7752/leetcode1/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/engnaman7752/leetcode1/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/engnaman7752/leetcode1/tree/master/3783-mirror-distance-of-an-integer) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/engnaman7752/leetcode1/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/engnaman7752/leetcode1/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
 ## Binary Search
 |  |
@@ -1190,6 +1193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/engnaman7752/leetcode1/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3748-sort-matrix-by-diagonals](https://github.com/engnaman7752/leetcode1/tree/master/3748-sort-matrix-by-diagonals) |
 | [3799-word-squares-ii](https://github.com/engnaman7752/leetcode1/tree/master/3799-word-squares-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/engnaman7752/leetcode1/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Graph
 |  |
 | ------- |
@@ -1413,6 +1417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/engnaman7752/leetcode1/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/engnaman7752/leetcode1/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3838-weighted-word-mapping](https://github.com/engnaman7752/leetcode1/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/engnaman7752/leetcode1/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Data Stream
 |  |
 | ------- |
@@ -2214,6 +2219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/engnaman7752/leetcode1/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/engnaman7752/leetcode1/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/engnaman7752/leetcode1/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/engnaman7752/leetcode1/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bitmask
 |  |
 | ------- |
