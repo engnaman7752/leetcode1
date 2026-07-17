@@ -506,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/engnaman7752/leetcode1/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/engnaman7752/leetcode1/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/engnaman7752/leetcode1/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3275-k-th-nearest-obstacle-queries](https://github.com/engnaman7752/leetcode1/tree/master/3275-k-th-nearest-obstacle-queries) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/engnaman7752/leetcode1/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/engnaman7752/leetcode1/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/engnaman7752/leetcode1/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -1784,6 +1785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/engnaman7752/leetcode1/tree/master/2479-meeting-rooms-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/engnaman7752/leetcode1/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/engnaman7752/leetcode1/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3275-k-th-nearest-obstacle-queries](https://github.com/engnaman7752/leetcode1/tree/master/3275-k-th-nearest-obstacle-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/engnaman7752/leetcode1/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/engnaman7752/leetcode1/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/engnaman7752/leetcode1/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
