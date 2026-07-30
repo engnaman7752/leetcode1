@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/engnaman7752/leetcode1/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/engnaman7752/leetcode1/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/engnaman7752/leetcode1/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/engnaman7752/leetcode1/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/engnaman7752/leetcode1/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/engnaman7752/leetcode1/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/engnaman7752/leetcode1/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -985,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/engnaman7752/leetcode1/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/engnaman7752/leetcode1/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/engnaman7752/leetcode1/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/engnaman7752/leetcode1/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/engnaman7752/leetcode1/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/engnaman7752/leetcode1/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3201-distribute-candies-among-children-ii](https://github.com/engnaman7752/leetcode1/tree/master/3201-distribute-candies-among-children-ii) |
@@ -1932,6 +1934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/engnaman7752/leetcode1/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/engnaman7752/leetcode1/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/engnaman7752/leetcode1/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/engnaman7752/leetcode1/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/engnaman7752/leetcode1/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/engnaman7752/leetcode1/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/engnaman7752/leetcode1/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
