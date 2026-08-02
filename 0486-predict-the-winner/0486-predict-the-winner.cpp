@@ -9,6 +9,6 @@ public:
         if(i>j)return 0;
         if(i==j)return nums[i];
         if(dp[i][j]!=-1)return dp[i][j];
-        return max(nums[i]-solve(i+1,j,dp,nums),nums[j]-solve(i,j-1,dp,nums));
+        return dp[i][j]=max(nums[i]-solve(i+1,j,dp,nums),nums[j]-solve(i,j-1,dp,nums));
     }
 };
