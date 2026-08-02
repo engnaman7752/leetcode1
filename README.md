@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/engnaman7752/leetcode1/tree/master/0874-walking-robot-simulation) |
 | [0875-longest-mountain-in-array](https://github.com/engnaman7752/leetcode1/tree/master/0875-longest-mountain-in-array) |
 | [0875-koko-eating-bananas](https://github.com/engnaman7752/leetcode1/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/engnaman7752/leetcode1/tree/master/0877-stone-game) |
 | [0890-lemonade-change](https://github.com/engnaman7752/leetcode1/tree/master/0890-lemonade-change) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/engnaman7752/leetcode1/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/engnaman7752/leetcode1/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -950,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/engnaman7752/leetcode1/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/engnaman7752/leetcode1/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/engnaman7752/leetcode1/tree/master/0867-new-21-game) |
+| [0877-stone-game](https://github.com/engnaman7752/leetcode1/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/engnaman7752/leetcode1/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/engnaman7752/leetcode1/tree/master/1018-largest-perimeter-triangle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/engnaman7752/leetcode1/tree/master/1266-minimum-time-visiting-all-points) |
@@ -1343,6 +1345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/engnaman7752/leetcode1/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/engnaman7752/leetcode1/tree/master/0868-push-dominoes) |
 | [0875-longest-mountain-in-array](https://github.com/engnaman7752/leetcode1/tree/master/0875-longest-mountain-in-array) |
+| [0877-stone-game](https://github.com/engnaman7752/leetcode1/tree/master/0877-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/engnaman7752/leetcode1/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/engnaman7752/leetcode1/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/engnaman7752/leetcode1/tree/master/1025-minimum-cost-for-tickets) |
@@ -2267,6 +2270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/engnaman7752/leetcode1/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/engnaman7752/leetcode1/tree/master/0877-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/engnaman7752/leetcode1/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
 |  |
