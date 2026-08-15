@@ -600,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/engnaman7752/leetcode1/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/engnaman7752/leetcode1/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/engnaman7752/leetcode1/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/engnaman7752/leetcode1/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/engnaman7752/leetcode1/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/engnaman7752/leetcode1/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3719-longest-balanced-subarray-i](https://github.com/engnaman7752/leetcode1/tree/master/3719-longest-balanced-subarray-i) |
@@ -1145,6 +1146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/engnaman7752/leetcode1/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/engnaman7752/leetcode1/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/engnaman7752/leetcode1/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/engnaman7752/leetcode1/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/engnaman7752/leetcode1/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/engnaman7752/leetcode1/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Sorting
