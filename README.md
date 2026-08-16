@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/engnaman7752/leetcode1/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/engnaman7752/leetcode1/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/engnaman7752/leetcode1/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2029-stone-game-ix](https://github.com/engnaman7752/leetcode1/tree/master/2029-stone-game-ix) |
 | [2048-build-array-from-permutation](https://github.com/engnaman7752/leetcode1/tree/master/2048-build-array-from-permutation) |
 | [2054-two-best-non-overlapping-events](https://github.com/engnaman7752/leetcode1/tree/master/2054-two-best-non-overlapping-events) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/engnaman7752/leetcode1/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -986,6 +987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/engnaman7752/leetcode1/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/engnaman7752/leetcode1/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/engnaman7752/leetcode1/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2029-stone-game-ix](https://github.com/engnaman7752/leetcode1/tree/master/2029-stone-game-ix) |
 | [2050-count-good-numbers](https://github.com/engnaman7752/leetcode1/tree/master/2050-count-good-numbers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/engnaman7752/leetcode1/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/engnaman7752/leetcode1/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -1286,6 +1288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/engnaman7752/leetcode1/tree/master/1189-maximum-number-of-balloons) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/engnaman7752/leetcode1/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/engnaman7752/leetcode1/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2029-stone-game-ix](https://github.com/engnaman7752/leetcode1/tree/master/2029-stone-game-ix) |
 | [2139-detect-squares](https://github.com/engnaman7752/leetcode1/tree/master/2139-detect-squares) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/engnaman7752/leetcode1/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/engnaman7752/leetcode1/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -1943,6 +1946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/engnaman7752/leetcode1/tree/master/1903-largest-odd-number-in-string) |
 | [1917-maximum-average-pass-ratio](https://github.com/engnaman7752/leetcode1/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/engnaman7752/leetcode1/tree/master/1975-maximum-matrix-sum) |
+| [2029-stone-game-ix](https://github.com/engnaman7752/leetcode1/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/engnaman7752/leetcode1/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/engnaman7752/leetcode1/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/engnaman7752/leetcode1/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -2294,6 +2298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/engnaman7752/leetcode1/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/engnaman7752/leetcode1/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/engnaman7752/leetcode1/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/engnaman7752/leetcode1/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/engnaman7752/leetcode1/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
 |  |
@@ -2358,4 +2363,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/engnaman7752/leetcode1/tree/master/1833-maximum-ice-cream-bars) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/engnaman7752/leetcode1/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/engnaman7752/leetcode1/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/engnaman7752/leetcode1/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
