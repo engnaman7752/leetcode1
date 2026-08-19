@@ -19,7 +19,7 @@ public:
             if(temp[5]==0 || temp[6]==0 ||temp[7]==0 || temp[8]==0)cnt++;
             if(cnt==3)ans-=2;
             else if(cnt!=0)ans-=1;
-            cout<<ans<<endl;
+            //cout<<ans<<endl;
 
         }
         return ans;
