@@ -512,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/engnaman7752/leetcode1/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/engnaman7752/leetcode1/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3093-longest-common-suffix-queries](https://github.com/engnaman7752/leetcode1/tree/master/3093-longest-common-suffix-queries) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/engnaman7752/leetcode1/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/engnaman7752/leetcode1/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/engnaman7752/leetcode1/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3161-block-placement-queries](https://github.com/engnaman7752/leetcode1/tree/master/3161-block-placement-queries) |
@@ -1014,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/engnaman7752/leetcode1/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/engnaman7752/leetcode1/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/engnaman7752/leetcode1/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/engnaman7752/leetcode1/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/engnaman7752/leetcode1/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3201-distribute-candies-among-children-ii](https://github.com/engnaman7752/leetcode1/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/engnaman7752/leetcode1/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -1099,6 +1101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/engnaman7752/leetcode1/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/engnaman7752/leetcode1/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/engnaman7752/leetcode1/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/engnaman7752/leetcode1/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3161-block-placement-queries](https://github.com/engnaman7752/leetcode1/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/engnaman7752/leetcode1/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/engnaman7752/leetcode1/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1147,6 +1150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/engnaman7752/leetcode1/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/engnaman7752/leetcode1/tree/master/2529-range-product-queries-of-powers) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/engnaman7752/leetcode1/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/engnaman7752/leetcode1/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/engnaman7752/leetcode1/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/engnaman7752/leetcode1/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/engnaman7752/leetcode1/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -2152,6 +2156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/engnaman7752/leetcode1/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/engnaman7752/leetcode1/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/engnaman7752/leetcode1/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/engnaman7752/leetcode1/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3201-distribute-candies-among-children-ii](https://github.com/engnaman7752/leetcode1/tree/master/3201-distribute-candies-among-children-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/engnaman7752/leetcode1/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/engnaman7752/leetcode1/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -2317,6 +2322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/engnaman7752/leetcode1/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/engnaman7752/leetcode1/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/engnaman7752/leetcode1/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/engnaman7752/leetcode1/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/engnaman7752/leetcode1/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/engnaman7752/leetcode1/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
