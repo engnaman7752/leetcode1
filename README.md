@@ -1072,6 +1072,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/engnaman7752/leetcode1/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/engnaman7752/leetcode1/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/engnaman7752/leetcode1/tree/master/0300-longest-increasing-subsequence) |
+| [0374-guess-number-higher-or-lower](https://github.com/engnaman7752/leetcode1/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/engnaman7752/leetcode1/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/engnaman7752/leetcode1/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/engnaman7752/leetcode1/tree/master/0540-single-element-in-a-sorted-array) |
@@ -2394,4 +2395,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/engnaman7752/leetcode1/tree/master/2029-stone-game-ix) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/engnaman7752/leetcode1/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
