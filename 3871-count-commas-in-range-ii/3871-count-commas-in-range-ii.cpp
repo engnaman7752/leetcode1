@@ -6,7 +6,7 @@ public:
         long long ans=0;
         int cnt=1;
         while(true){
-            cout<<num<<endl;
+            //cout<<num<<endl;
             if(n>(num*1000+999)){
                 ans+=cnt*(((num*1000)+999)-num);
                 num=(num*1000)+999;
