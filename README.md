@@ -2446,4 +2446,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/engnaman7752/leetcode1/tree/master/0374-guess-number-higher-or-lower) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/engnaman7752/leetcode1/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
