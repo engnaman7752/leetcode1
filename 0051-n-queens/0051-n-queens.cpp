@@ -1,61 +1,37 @@
 class Solution {
-    private:
-    void solve(int line,vector<string>a,vector<vector<string>>& ans,int n)
-    {
-        if(line>=n)
-       { ans.push_back(a);
-        return;}
-        int count=0;
-        for(int i=0;i<a[line].size();i++)
-        {if(a[line][i]=='#')
-        break;
-        else
-        count++;}
-        if(count==n)
-        return;
-        for(int i=0;i<a[line].size();i++)
-        {vector<string>temp=a;
-            if(a[line][i]=='#')
-           {
-            int f=0;
-            while(f<n)
-            {a[line][f]='.';
-            f++;}
-            a[line][i]='Q';
-            int j=line+1;
-            while(j<n)
-            {a[j][i]='.';
-            j++;}
-            int k=line+1;
-            int l=i+1;
-            while(k<n&&l<n)
-            {
-                a[k][l]='.';
-                k++;
-                l++;
-            }
-            k=line+1;
-            l=i-1;
-             while(l>=0&&k<n)
-            {
-                a[k][l]='.';
-                k++;
-                l--;
-            }
-            solve(line+1,a,ans,n);
-            a=temp;
-
-
-           }
-        }
-    }
-    
 public:
+bool check(int row,int col,vector<string>&t){
+    int n=t.size();
+    for(int i=row-1;i>=0;i--){
+        if(t[i][col]=='Q')return false;
+    }
+    for(int i=row,j=col;i>=0 && j>=0 ;i--,j--){
+        if(t[i][j]=='Q')return false;
+    }
+    for(int i=row,j=col;i>=0 && j<n ;i--,j++){
+        if(t[i][j]=='Q')return false;
+    }
+    return true;
+
+}
     vector<vector<string>> solveNQueens(int n) {
         vector<vector<string>>ans;
-        vector<string> a(n, string(n, '#'));
-        solve(0,a,ans,n);
+        vector<string>t(n,string(n,'.'));
+        solve(0,ans,t);
         return ans;
-}
-    
+    }
+    void solve(int i,vector<vector<string>>&ans,
+        vector<string>&t){
+            int n=t.size();
+            if(i==n){
+                ans.push_back(t);
+            }
+            for(int k=0;k<n;k++){
+               if(check(i,k,t)){
+                t[i][k]='Q';
+                solve(i+1,ans,t);
+                t[i][k]='.';
+               }
+            }
+        }
 };
