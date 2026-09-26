@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/engnaman7752/leetcode1/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1768-merge-strings-alternately](https://github.com/engnaman7752/leetcode1/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/engnaman7752/leetcode1/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/engnaman7752/leetcode1/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/engnaman7752/leetcode1/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1871-jump-game-vii](https://github.com/engnaman7752/leetcode1/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/engnaman7752/leetcode1/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/engnaman7752/leetcode1/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1753-path-with-minimum-effort](https://github.com/engnaman7752/leetcode1/tree/master/1753-path-with-minimum-effort) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/engnaman7752/leetcode1/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/engnaman7752/leetcode1/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1813-maximum-erasure-value](https://github.com/engnaman7752/leetcode1/tree/master/1813-maximum-erasure-value) |
 | [1829-maximum-units-on-a-truck](https://github.com/engnaman7752/leetcode1/tree/master/1829-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/engnaman7752/leetcode1/tree/master/1833-maximum-ice-cream-bars) |
@@ -882,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/engnaman7752/leetcode1/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/engnaman7752/leetcode1/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/engnaman7752/leetcode1/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/engnaman7752/leetcode1/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1813-maximum-erasure-value](https://github.com/engnaman7752/leetcode1/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/engnaman7752/leetcode1/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/engnaman7752/leetcode1/tree/master/1930-unique-length-3-palindromic-subsequences) |
