@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/engnaman7752/leetcode1/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/engnaman7752/leetcode1/tree/master/1170-shortest-common-supersequence) |
 | [1189-maximum-number-of-balloons](https://github.com/engnaman7752/leetcode1/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/engnaman7752/leetcode1/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/engnaman7752/leetcode1/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/engnaman7752/leetcode1/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/engnaman7752/leetcode1/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/engnaman7752/leetcode1/tree/master/1072-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/engnaman7752/leetcode1/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/engnaman7752/leetcode1/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/engnaman7752/leetcode1/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1552-build-an-array-with-stack-operations](https://github.com/engnaman7752/leetcode1/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/engnaman7752/leetcode1/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/engnaman7752/leetcode1/tree/master/1628-count-submatrices-with-all-ones) |
@@ -2482,4 +2484,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/engnaman7752/leetcode1/tree/master/0051-n-queens) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/engnaman7752/leetcode1/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
