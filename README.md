@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/engnaman7752/leetcode1/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/engnaman7752/leetcode1/tree/master/0778-reorganize-string) |
 | [0796-rotate-string](https://github.com/engnaman7752/leetcode1/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/engnaman7752/leetcode1/tree/master/0856-score-of-parentheses) |
 | [0868-push-dominoes](https://github.com/engnaman7752/leetcode1/tree/master/0868-push-dominoes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/engnaman7752/leetcode1/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/engnaman7752/leetcode1/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/engnaman7752/leetcode1/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/engnaman7752/leetcode1/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/engnaman7752/leetcode1/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/engnaman7752/leetcode1/tree/master/0856-score-of-parentheses) |
 | [0937-online-stock-span](https://github.com/engnaman7752/leetcode1/tree/master/0937-online-stock-span) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/engnaman7752/leetcode1/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/engnaman7752/leetcode1/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -2500,6 +2502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/engnaman7752/leetcode1/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/engnaman7752/leetcode1/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/engnaman7752/leetcode1/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/engnaman7752/leetcode1/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/engnaman7752/leetcode1/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/engnaman7752/leetcode1/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/engnaman7752/leetcode1/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
