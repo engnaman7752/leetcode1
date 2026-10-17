@@ -590,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/engnaman7752/leetcode1/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/engnaman7752/leetcode1/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/engnaman7752/leetcode1/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/engnaman7752/leetcode1/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/engnaman7752/leetcode1/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/engnaman7752/leetcode1/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/engnaman7752/leetcode1/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -958,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/engnaman7752/leetcode1/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/engnaman7752/leetcode1/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/engnaman7752/leetcode1/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/engnaman7752/leetcode1/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/engnaman7752/leetcode1/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/engnaman7752/leetcode1/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/engnaman7752/leetcode1/tree/master/3583-count-special-triplets) |
@@ -1319,6 +1321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/engnaman7752/leetcode1/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3531-count-covered-buildings](https://github.com/engnaman7752/leetcode1/tree/master/3531-count-covered-buildings) |
 | [3536-maximum-product-of-two-digits](https://github.com/engnaman7752/leetcode1/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/engnaman7752/leetcode1/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/engnaman7752/leetcode1/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/engnaman7752/leetcode1/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/engnaman7752/leetcode1/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
