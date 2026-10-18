@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-cherry-pickup-ii](https://github.com/engnaman7752/leetcode1/tree/master/1559-cherry-pickup-ii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/engnaman7752/leetcode1/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1563-stone-game-v](https://github.com/engnaman7752/leetcode1/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/engnaman7752/leetcode1/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/engnaman7752/leetcode1/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/engnaman7752/leetcode1/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/engnaman7752/leetcode1/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -1038,6 +1039,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/engnaman7752/leetcode1/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/engnaman7752/leetcode1/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1563-stone-game-v](https://github.com/engnaman7752/leetcode1/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/engnaman7752/leetcode1/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/engnaman7752/leetcode1/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/engnaman7752/leetcode1/tree/master/1622-fancy-sequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/engnaman7752/leetcode1/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -1473,6 +1475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/engnaman7752/leetcode1/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1559-cherry-pickup-ii](https://github.com/engnaman7752/leetcode1/tree/master/1559-cherry-pickup-ii) |
 | [1563-stone-game-v](https://github.com/engnaman7752/leetcode1/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/engnaman7752/leetcode1/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/engnaman7752/leetcode1/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/engnaman7752/leetcode1/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/engnaman7752/leetcode1/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -1651,6 +1654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/engnaman7752/leetcode1/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/engnaman7752/leetcode1/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/engnaman7752/leetcode1/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/engnaman7752/leetcode1/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/engnaman7752/leetcode1/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -1802,6 +1806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/engnaman7752/leetcode1/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/engnaman7752/leetcode1/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/engnaman7752/leetcode1/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/engnaman7752/leetcode1/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/engnaman7752/leetcode1/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -1977,6 +1982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/engnaman7752/leetcode1/tree/master/1285-balance-a-binary-search-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/engnaman7752/leetcode1/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/engnaman7752/leetcode1/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/engnaman7752/leetcode1/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1995,6 +2001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/engnaman7752/leetcode1/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/engnaman7752/leetcode1/tree/master/1285-balance-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/engnaman7752/leetcode1/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/engnaman7752/leetcode1/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/engnaman7752/leetcode1/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/engnaman7752/leetcode1/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/engnaman7752/leetcode1/tree/master/3719-longest-balanced-subarray-i) |
@@ -2253,6 +2260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/engnaman7752/leetcode1/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/engnaman7752/leetcode1/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/engnaman7752/leetcode1/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/engnaman7752/leetcode1/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/engnaman7752/leetcode1/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -2343,6 +2351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/engnaman7752/leetcode1/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/engnaman7752/leetcode1/tree/master/0139-word-break) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/engnaman7752/leetcode1/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/engnaman7752/leetcode1/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/engnaman7752/leetcode1/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/engnaman7752/leetcode1/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -2472,6 +2481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/engnaman7752/leetcode1/tree/master/0785-is-graph-bipartite) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/engnaman7752/leetcode1/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/engnaman7752/leetcode1/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/engnaman7752/leetcode1/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/engnaman7752/leetcode1/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/engnaman7752/leetcode1/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/engnaman7752/leetcode1/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -2523,4 +2533,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/engnaman7752/leetcode1/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/engnaman7752/leetcode1/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/engnaman7752/leetcode1/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/engnaman7752/leetcode1/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
