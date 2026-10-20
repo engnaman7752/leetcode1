@@ -672,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/engnaman7752/leetcode1/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/engnaman7752/leetcode1/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/engnaman7752/leetcode1/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/engnaman7752/leetcode1/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/engnaman7752/leetcode1/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/engnaman7752/leetcode1/tree/master/3904-smallest-stable-index-ii) |
 ## Monotonic Stack
@@ -1122,6 +1123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-count-commas-in-range-ii](https://github.com/engnaman7752/leetcode1/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/engnaman7752/leetcode1/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/engnaman7752/leetcode1/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/engnaman7752/leetcode1/tree/master/3886-sum-of-sortable-integers) |
 | [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/engnaman7752/leetcode1/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
 ## Binary Search
 |  |
@@ -1341,6 +1343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3748-sort-matrix-by-diagonals](https://github.com/engnaman7752/leetcode1/tree/master/3748-sort-matrix-by-diagonals) |
 | [3799-word-squares-ii](https://github.com/engnaman7752/leetcode1/tree/master/3799-word-squares-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/engnaman7752/leetcode1/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/engnaman7752/leetcode1/tree/master/3886-sum-of-sortable-integers) |
 ## Graph
 |  |
 | ------- |
@@ -2307,6 +2310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/engnaman7752/leetcode1/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3799-word-squares-ii](https://github.com/engnaman7752/leetcode1/tree/master/3799-word-squares-ii) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/engnaman7752/leetcode1/tree/master/3843-partition-array-into-two-equal-product-subsets) |
+| [3886-sum-of-sortable-integers](https://github.com/engnaman7752/leetcode1/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
 |  |
 | ------- |
