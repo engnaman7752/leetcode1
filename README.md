@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/engnaman7752/leetcode1/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/engnaman7752/leetcode1/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/engnaman7752/leetcode1/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2409-count-days-spent-together](https://github.com/engnaman7752/leetcode1/tree/master/2409-count-days-spent-together) |
 | [2429-design-a-food-rating-system](https://github.com/engnaman7752/leetcode1/tree/master/2429-design-a-food-rating-system) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/engnaman7752/leetcode1/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/engnaman7752/leetcode1/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -1066,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/engnaman7752/leetcode1/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/engnaman7752/leetcode1/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/engnaman7752/leetcode1/tree/master/2383-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/engnaman7752/leetcode1/tree/master/2409-count-days-spent-together) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/engnaman7752/leetcode1/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/engnaman7752/leetcode1/tree/master/2448-count-number-of-bad-pairs) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/engnaman7752/leetcode1/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
