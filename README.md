@@ -585,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/engnaman7752/leetcode1/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/engnaman7752/leetcode1/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/engnaman7752/leetcode1/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/engnaman7752/leetcode1/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/engnaman7752/leetcode1/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/engnaman7752/leetcode1/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/engnaman7752/leetcode1/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -966,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/engnaman7752/leetcode1/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/engnaman7752/leetcode1/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/engnaman7752/leetcode1/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/engnaman7752/leetcode1/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/engnaman7752/leetcode1/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/engnaman7752/leetcode1/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/engnaman7752/leetcode1/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -1101,6 +1103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/engnaman7752/leetcode1/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/engnaman7752/leetcode1/tree/master/3462-vowels-game-in-a-string) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/engnaman7752/leetcode1/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/engnaman7752/leetcode1/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/engnaman7752/leetcode1/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/engnaman7752/leetcode1/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/engnaman7752/leetcode1/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -1532,6 +1535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/engnaman7752/leetcode1/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/engnaman7752/leetcode1/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/engnaman7752/leetcode1/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/engnaman7752/leetcode1/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/engnaman7752/leetcode1/tree/master/3524-find-x-value-of-array-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/engnaman7752/leetcode1/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/engnaman7752/leetcode1/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -1977,6 +1981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/engnaman7752/leetcode1/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/engnaman7752/leetcode1/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/engnaman7752/leetcode1/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/engnaman7752/leetcode1/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/engnaman7752/leetcode1/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/engnaman7752/leetcode1/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/engnaman7752/leetcode1/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -2248,6 +2253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/engnaman7752/leetcode1/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/engnaman7752/leetcode1/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/engnaman7752/leetcode1/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/engnaman7752/leetcode1/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/engnaman7752/leetcode1/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/engnaman7752/leetcode1/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/engnaman7752/leetcode1/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
