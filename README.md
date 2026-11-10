@@ -519,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/engnaman7752/leetcode1/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/engnaman7752/leetcode1/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/engnaman7752/leetcode1/tree/master/2727-number-of-senior-citizens) |
+| [2747-count-zero-request-servers](https://github.com/engnaman7752/leetcode1/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/engnaman7752/leetcode1/tree/master/2751-robot-collisions) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/engnaman7752/leetcode1/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2765-longest-alternating-subarray](https://github.com/engnaman7752/leetcode1/tree/master/2765-longest-alternating-subarray) |
@@ -947,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/engnaman7752/leetcode1/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/engnaman7752/leetcode1/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/engnaman7752/leetcode1/tree/master/2689-rearranging-fruits) |
+| [2747-count-zero-request-servers](https://github.com/engnaman7752/leetcode1/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/engnaman7752/leetcode1/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/engnaman7752/leetcode1/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/engnaman7752/leetcode1/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -1327,6 +1329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/engnaman7752/leetcode1/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/engnaman7752/leetcode1/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/engnaman7752/leetcode1/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2747-count-zero-request-servers](https://github.com/engnaman7752/leetcode1/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/engnaman7752/leetcode1/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/engnaman7752/leetcode1/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/engnaman7752/leetcode1/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -2248,6 +2251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/engnaman7752/leetcode1/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/engnaman7752/leetcode1/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/engnaman7752/leetcode1/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2747-count-zero-request-servers](https://github.com/engnaman7752/leetcode1/tree/master/2747-count-zero-request-servers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/engnaman7752/leetcode1/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/engnaman7752/leetcode1/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/engnaman7752/leetcode1/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
