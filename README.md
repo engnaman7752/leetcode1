@@ -1138,6 +1138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/engnaman7752/leetcode1/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/engnaman7752/leetcode1/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/engnaman7752/leetcode1/tree/master/3783-mirror-distance-of-an-integer) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/engnaman7752/leetcode1/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/engnaman7752/leetcode1/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/engnaman7752/leetcode1/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/engnaman7752/leetcode1/tree/master/3871-count-commas-in-range-ii) |
@@ -2140,6 +2141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/engnaman7752/leetcode1/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3738-make-array-non-decreasing](https://github.com/engnaman7752/leetcode1/tree/master/3738-make-array-non-decreasing) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/engnaman7752/leetcode1/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/engnaman7752/leetcode1/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3800-minimum-cost-to-make-two-binary-strings-equal](https://github.com/engnaman7752/leetcode1/tree/master/3800-minimum-cost-to-make-two-binary-strings-equal) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/engnaman7752/leetcode1/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Quickselect
