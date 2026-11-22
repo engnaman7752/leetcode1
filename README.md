@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/engnaman7752/leetcode1/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/engnaman7752/leetcode1/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/engnaman7752/leetcode1/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/engnaman7752/leetcode1/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/engnaman7752/leetcode1/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/engnaman7752/leetcode1/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/engnaman7752/leetcode1/tree/master/2163-kth-distinct-string-in-an-array) |
