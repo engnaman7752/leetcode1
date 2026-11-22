@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/engnaman7752/leetcode1/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/engnaman7752/leetcode1/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/engnaman7752/leetcode1/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/engnaman7752/leetcode1/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/engnaman7752/leetcode1/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/engnaman7752/leetcode1/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/engnaman7752/leetcode1/tree/master/0037-sudoku-solver) |
@@ -819,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/engnaman7752/leetcode1/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/engnaman7752/leetcode1/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/engnaman7752/leetcode1/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/engnaman7752/leetcode1/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/engnaman7752/leetcode1/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/engnaman7752/leetcode1/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/engnaman7752/leetcode1/tree/master/0088-merge-sorted-array) |
